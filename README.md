@@ -68,8 +68,8 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[CalcMod](https://modrinth.com/plugin/calcmod)** - calc is a slang for calculator.
 - **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
 - **[]()**
-- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
-- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗ - A tool for visualising villager schedules
+- **[Visible Traders](https://modrinth.com/mod/visible-traders)** ❗ - A mod that allows the player to view locked villager trades.
+- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!
 - **[Controlling](https://modrinth.com/mod/controlling)** ❗ - Adds a search bar to the Key-Bindings menu.
 - **[Clumps](https://modrinth.com/mod/clumps)** ❗ - Clumps XP orbs together to reduce lag.
