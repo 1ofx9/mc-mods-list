@@ -50,7 +50,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[More Chat History](https://modrinth.com/mod/morechathistory)** - Increases the maximum length of chat history.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improves the statistics screen and makes it more useful.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Improves the ingame HUD while riding a mount.
-- **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - Client-side mod that makes bubble particles pop and lets them rise realistically to the water surface.
+- **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - Makes bubble particles pop and rise realistically.
 - **[Blur+](https://modrinth.com/mod/blur-plus)** - adds blur effect.
 - **[Litematica](https://modrinth.com/mod/litematica)** - A client-side schematic mod.
 - **[WorldEdit](https://modrinth.com/plugin/worldedit)** - A Minecraft Map Editor.
@@ -65,6 +65,9 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - A Fabric Minecraft mod that enhances the game's HUD.
 - **[View Distance Fix](https://modrinth.com/mod/view-distance-fix)** - A server side Fabric mod that fixes the fog.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Adds a potency and time indicator overlay to status effect icons.
+- **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Allows you to play Minecraft in a borderless fullscreen window.
+- **[CalcMod](https://modrinth.com/plugin/calcmod)** - calc is a slang for calculator.
+- **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
 - **[]()** -
 - **[Controlling](https://modrinth.com/mod/controlling)** ❗ - Adds a search bar to the Key-Bindings menu.
 - **[Clumps](https://modrinth.com/mod/clumps)** ❗ - Clumps XP orbs together to reduce lag.
