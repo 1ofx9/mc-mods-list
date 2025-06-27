@@ -17,7 +17,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Noisium](https://modrinth.com/mod/noisium)** - Optimises worldgen performance for a better gameplay experience.
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
 - **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
-- **[]()** -
+- **[]()**
 - **[Enhanced Block Entities](https://modrinth.com/mod/ebe)** ❗ - Reduce block entity FPS lag and improve their visuals.
 - **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)** ❗ - A mod that fixes random memory leaks for both the client and server.
 - **[ModernFix](https://modrinth.com/mod/modernfix)** ❗ - Improves performance, reduces memory usage, and fixes many bugs.
@@ -63,12 +63,13 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - A client mod that adds many shortcuts to move items.
 - **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - A Fabric Minecraft mod that enhances the game's HUD.
-- **[View Distance Fix](https://modrinth.com/mod/view-distance-fix)** - A server side Fabric mod that fixes the fog.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Adds a potency and time indicator overlay to status effect icons.
 - **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Allows you to play Minecraft in a borderless fullscreen window.
 - **[CalcMod](https://modrinth.com/plugin/calcmod)** - calc is a slang for calculator.
 - **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
-- **[]()** -
+- **[]()**
+- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
+- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗ - A tool for visualising villager schedules
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!
 - **[Controlling](https://modrinth.com/mod/controlling)** ❗ - Adds a search bar to the Key-Bindings menu.
 - **[Clumps](https://modrinth.com/mod/clumps)** ❗ - Clumps XP orbs together to reduce lag.
@@ -86,7 +87,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)** - Placeholder and Text manipulation library for your Minecraft mods.
 - **[Malilib](https://modrinth.com/mod/malilib)** - A library mod for client-side mods.
 - **[MidnightLib](https://modrinth.com/mod/midnightlib)** - Library mod.
-- **[]()** -
+- **[]()**
 - **[Searchables](https://modrinth.com/mod/searchables)** ❗ - Searchables is a library mod that adds helper methods that allow for searching and filtering.
 
 ## 🪐 Shaders
@@ -95,7 +96,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)**
 - **[Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)**
 - **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
-- **[]()** -
+- **[]()**
 - **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)** ❗
 
 ## 🌍 Resource Packs
