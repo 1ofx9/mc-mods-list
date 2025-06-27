@@ -69,6 +69,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[CalcMod](https://modrinth.com/plugin/calcmod)** - calc is a slang for calculator.
 - **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
 - **[]()** -
+- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!
 - **[Controlling](https://modrinth.com/mod/controlling)** ❗ - Adds a search bar to the Key-Bindings menu.
 - **[Clumps](https://modrinth.com/mod/clumps)** ❗ - Clumps XP orbs together to reduce lag.
 - **[Debugify](https://modrinth.com/mod/debugify)** ❗ - Fixes Minecraft bugs found on the bug tracker.
