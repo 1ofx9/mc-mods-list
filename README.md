@@ -67,8 +67,9 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Allows you to play Minecraft in a borderless fullscreen window.
 - **[CalcMod](https://modrinth.com/plugin/calcmod)** - calc is a slang for calculator.
 - **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
+- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
 - **[]()**
-- **[Visible Traders](https://modrinth.com/mod/visible-traders)** ❗ - A mod that allows the player to view locked villager trades.
+- **[Backup Manager](https://modrinth.com/mod/backup-manager)** ❗ - A mod to add basic gui support for multiple backup mods.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!
 - **[Controlling](https://modrinth.com/mod/controlling)** ❗ - Adds a search bar to the Key-Bindings menu.
