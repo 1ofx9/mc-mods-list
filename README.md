@@ -17,10 +17,10 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Noisium](https://modrinth.com/mod/noisium)** - Optimises worldgen performance for a better gameplay experience.
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
 - **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
-- **[]()**
-- **[Enhanced Block Entities](https://modrinth.com/mod/ebe)** ❗ - Reduce block entity FPS lag and improve their visuals.
-- **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)** ❗ - A mod that fixes random memory leaks for both the client and server.
+- **[Clumps](https://modrinth.com/mod/clumps)** ❗ - Clumps XP orbs together to reduce lag.
+- **[Debugify](https://modrinth.com/mod/debugify)** ❗ - Fixes Minecraft bugs found on the bug tracker.
 - **[ModernFix](https://modrinth.com/mod/modernfix)** ❗ - Improves performance, reduces memory usage, and fixes many bugs.
+- **[Enhanced Block Entities](https://modrinth.com/mod/ebe)** ❗ - Reduce block entity FPS lag and improve their visuals.
 
 ## 🔧 Utility Mods (QoL mods)
 
@@ -58,7 +58,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[BetterGrassify](https://modrinth.com/mod/bettergrassify)** -  OptiFine's Fancy and Fast better grass.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Makes the loading screen darker.
 - **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - The trade cycling functionality of Easy Villagers.
-- **[Clean F3](https://modrinth.com/mod/clean-f3)** - Removes useless information from the debug screen.
+- **[BetterF3](https://modrinth.com/mod/betterf3)** -  highly customizable, more human-readable debug screen.
 - **[Chunks fade in](https://modrinth.com/mod/chunks-fade-in)** - A simple mod that adds fade-in animation for chunks!.
 - **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - A client mod that adds many shortcuts to move items.
@@ -68,14 +68,11 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[CalcMod](https://modrinth.com/plugin/calcmod)** - calc is a slang for calculator.
 - **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
 - **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
-- **[]()**
+- **[Continuity](https://modrinth.com/mod/continuity)** ❗ - A Minecraft mod that allows for efficient connected textures.
 - **[Backup Manager](https://modrinth.com/mod/backup-manager)** ❗ - A mod to add basic gui support for multiple backup mods.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!
 - **[Controlling](https://modrinth.com/mod/controlling)** ❗ - Adds a search bar to the Key-Bindings menu.
-- **[Clumps](https://modrinth.com/mod/clumps)** ❗ - Clumps XP orbs together to reduce lag.
-- **[Debugify](https://modrinth.com/mod/debugify)** ❗ - Fixes Minecraft bugs found on the bug tracker.
-- **[Continuity](https://modrinth.com/mod/continuity)** ❗ - A Minecraft mod that allows for efficient connected textures.
 
 ## 📦 Dependencies
 
@@ -88,7 +85,6 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)** - Placeholder and Text manipulation library for your Minecraft mods.
 - **[Malilib](https://modrinth.com/mod/malilib)** - A library mod for client-side mods.
 - **[MidnightLib](https://modrinth.com/mod/midnightlib)** - Library mod.
-- **[]()**
 - **[Searchables](https://modrinth.com/mod/searchables)** ❗ - Searchables is a library mod that adds helper methods that allow for searching and filtering.
 
 ## 🪐 Shaders
@@ -97,7 +93,6 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)**
 - **[Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)**
 - **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
-- **[]()**
 - **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)** ❗
 
 ## 🌍 Resource Packs
