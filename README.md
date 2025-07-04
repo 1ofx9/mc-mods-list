@@ -69,6 +69,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
 - **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar to the Key-Bindings menu.
+- **[Pickup Notifications](https://modrinth.com/mod/pickup-notifications)** - Show popup notifications when you pick up items.
 - **[Continuity](https://modrinth.com/mod/continuity)** ❗ - A Minecraft mod that allows for efficient connected textures.
 - **[Backup Manager](https://modrinth.com/mod/backup-manager)** ❗ - A mod to add basic gui support for multiple backup mods.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules
