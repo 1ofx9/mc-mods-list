@@ -58,7 +58,6 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Makes the loading screen darker.
 - **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - The trade cycling functionality of Easy Villagers.
 - **[BetterF3](https://modrinth.com/mod/betterf3)** -  highly customizable, more human-readable debug screen.
-- **[Chunks fade in](https://modrinth.com/mod/chunks-fade-in)** - A simple mod that adds fade-in animation for chunks!.
 - **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - A client mod that adds many shortcuts to move items.
 - **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - A Fabric Minecraft mod that enhances the game's HUD.
@@ -74,6 +73,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!.
 - **[World Play Time](https://modrinth.com/mod/world-play-time)** ❗ - Displays the world's play time in the world selection menu.
+- **[Better Advancements](https://modrinth.com/mod/better-advancements)** ❗ - Improves the UI and UX for the advancements system.
 
 ## 📦 Dependencies
 
