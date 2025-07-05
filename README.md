@@ -46,7 +46,6 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Enhances inventory management by adding various functions to the mouse buttons.
 - **[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)** - View the contents of shulker boxes from your inventory.
 - **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - World(saves) management.
-- **[OptiGUI](https://modrinth.com/mod/optigui)** - Blazing fast custom GUI textures on Fabric with built-in OptiFine custom GUI resource pack support
 - **[More Chat History](https://modrinth.com/mod/morechathistory)** - Increases the maximum length of chat history.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improves the statistics screen and makes it more useful.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Improves the ingame HUD while riding a mount.
@@ -72,8 +71,9 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Pickup Notifications](https://modrinth.com/mod/pickup-notifications)** - Show popup notifications when you pick up items.
 - **[Continuity](https://modrinth.com/mod/continuity)** ❗ - A Minecraft mod that allows for efficient connected textures.
 - **[Backup Manager](https://modrinth.com/mod/backup-manager)** ❗ - A mod to add basic gui support for multiple backup mods.
-- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules
-- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!
+- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules.
+- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!.
+- **[World Play Time](https://modrinth.com/mod/world-play-time)** ❗ - Displays the world's play time in the world selection menu.
 
 ## 📦 Dependencies
 
