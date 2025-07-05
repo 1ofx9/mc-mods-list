@@ -18,6 +18,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
 - **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
+- **[Nvidium (fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 - **[Debugify](https://modrinth.com/mod/debugify)** ❗ - Fixes Minecraft bugs found on the bug tracker.
 - **[ModernFix](https://modrinth.com/mod/modernfix)** ❗ - Improves performance, reduces memory usage, and fixes many bugs.
 - **[Enhanced Block Entities](https://modrinth.com/mod/ebe)** ❗ - Reduce block entity FPS lag and improve their visuals.
@@ -74,6 +75,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!.
 - **[World Play Time](https://modrinth.com/mod/world-play-time)** ❗ - Displays the world's play time in the world selection menu.
 - **[Better Advancements](https://modrinth.com/mod/better-advancements)** ❗ - Improves the UI and UX for the advancements system.
+- **[Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric)** ❗ - Adds a configurable numerical ping display to the player list.
 
 ## 📦 Dependencies
 
