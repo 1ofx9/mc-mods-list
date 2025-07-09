@@ -44,7 +44,6 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Jade](https://modrinth.com/mod/jade)** - Shows information about what you are looking at.
 - **[Chat Heads](https://modrinth.com/mod/chat-heads)** - See who you're chatting with!
 - **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in Block Models and Item Models
-- **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Enhances inventory management by adding various functions to the mouse buttons.
 - **[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)** - View the contents of shulker boxes from your inventory.
 - **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - World(saves) management.
 - **[More Chat History](https://modrinth.com/mod/morechathistory)** - Increases the maximum length of chat history.
@@ -70,7 +69,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar to the Key-Bindings menu.
 - **[Pickup Notifications](https://modrinth.com/mod/pickup-notifications)** - Show popup notifications when you pick up items.
 - **[Camera Utils](https://modrinth.com/mod/camera-utils)** - Helpful camera utilities.
-- **[Continuity](https://modrinth.com/mod/continuity)** ❗ - A Minecraft mod that allows for efficient connected textures.
+- **[Continuity](https://modrinth.com/mod/continuity)** - A Minecraft mod that allows for efficient connected textures.
 - **[Backup Manager](https://modrinth.com/mod/backup-manager)** ❗ - A mod to add basic gui support for multiple backup mods.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!.
