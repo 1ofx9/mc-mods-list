@@ -1,7 +1,9 @@
-# My Minecraft Mods Setup
+# Minecraft Mods List
 
-These are the mods I use in my survival world, carefully chosen for both performance and visual enhancements in **Minecraft 1.21.6**.
-> **Note:** ❗ means the mod/pack is *not available* in **1.21.6** but will be used if it gets updated.
+A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft.
+
+- ❗ Mod or pack may not be available for Minecraft version 1.21.6.
+- 🔶 A forked version is available.
 
 ## ⚡ Optimization Mods
 
@@ -18,7 +20,7 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
 - **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
-- **[Nvidium (fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
+- **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 - **[Debugify](https://modrinth.com/mod/debugify)** ❗ - Fixes Minecraft bugs found on the bug tracker.
 - **[ModernFix](https://modrinth.com/mod/modernfix)** ❗ - Improves performance, reduces memory usage, and fixes many bugs.
 - **[Enhanced Block Entities](https://modrinth.com/mod/ebe)** ❗ - Reduce block entity FPS lag and improve their visuals.
@@ -70,9 +72,9 @@ These are the mods I use in my survival world, carefully chosen for both perform
 - **[Pickup Notifications](https://modrinth.com/mod/pickup-notifications)** - Show popup notifications when you pick up items.
 - **[Camera Utils](https://modrinth.com/mod/camera-utils)** - Helpful camera utilities.
 - **[Continuity](https://modrinth.com/mod/continuity)** - A Minecraft mod that allows for efficient connected textures.
+- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 - **[Backup Manager](https://modrinth.com/mod/backup-manager)** ❗ - A mod to add basic gui support for multiple backup mods.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules.
-- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** ❗ - More detail about armor in Armor bar!.
 - **[World Play Time](https://modrinth.com/mod/world-play-time)** ❗ - Displays the world's play time in the world selection menu.
 - **[Better Advancements](https://modrinth.com/mod/better-advancements)** ❗ - Improves the UI and UX for the advancements system.
 - **[Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric)** ❗ - Adds a configurable numerical ping display to the player list.
