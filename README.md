@@ -72,6 +72,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Pickup Notifications](https://modrinth.com/mod/pickup-notifications)** - Show popup notifications when you pick up items.
 - **[Camera Utils](https://modrinth.com/mod/camera-utils)** - Helpful camera utilities.
 - **[Continuity](https://modrinth.com/mod/continuity)** - A Minecraft mod that allows for efficient connected textures.
+- **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Beautiful clouds in touch with the vanilla style.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 - **[Backup Manager](https://modrinth.com/mod/backup-manager)** ❗ - A mod to add basic gui support for multiple backup mods.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** ❗- A tool for visualising villager schedules.
