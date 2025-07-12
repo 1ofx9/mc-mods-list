@@ -42,6 +42,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Reduce resource usage while Minecraft is in the background, idle, or on battery.
 - **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)** - Render the player skin layer in 3d!.
 - **[Zoomify](https://modrinth.com/mod/zoomify)** - A zoom mod with infinite customizability.
+- **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Adds dynamic lights to Minecraft.
 - **[Jade](https://modrinth.com/mod/jade)** - Shows information about what you are looking at.
 - **[Chat Heads](https://modrinth.com/mod/chat-heads)** - See who you're chatting with!
