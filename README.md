@@ -93,6 +93,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Malilib](https://modrinth.com/mod/malilib)** - A library mod for client-side mods.
 - **[MidnightLib](https://modrinth.com/mod/midnightlib)** - Library mod.
 - **[Searchables](https://modrinth.com/mod/searchables)** - Searchables is a library mod that adds helper methods that allow for searching and filtering.
+- **[LibJF](https://modrinth.com/mod/libjf)** - LibJF is a library for my smaller mods which contains several common components.
 
 ## 🪐 Shaders
 
@@ -108,3 +109,4 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)**
+- **[Reimagined GUI (Dark)](https://modrinth.com/resourcepack/reimaginedguidark)** (i usually delete the custom panorama screen)
