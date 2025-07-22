@@ -11,10 +11,12 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Lithium](https://modrinth.com/mod/lithium)** – Makes the game physics run better.
 - **[FerriteCore](https://modrinth.com/mod/ferrite-core)** – Helps with RAM usage.
 - **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Speed up immediate mode rendering in Minecraft.
+- **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** - to see more chunks.
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** - Using async path-tracing to hide Block-/Entities that are not visible.
 - **[More Culling](https://modrinth.com/mod/moreculling)** - A mod that changes how multiple types of culling are handled in order to improve performance.
 - **[Language Reload](https://modrinth.com/mod/language-reload)** - Reduces load times and adds fallbacks for languages.
 - **[Krypton](https://modrinth.com/mod/krypton)** - A mod to optimize the Minecraft networking stack.
+- **[Packet Fixer](https://modrinth.com/mod/packet-fixer)** - fixes various problems with packets and nbt.
 - **[C2ME](https://modrinth.com/mod/c2me-fabric)** - A Fabric mod designed to improve the chunk performance of Minecraft.
 - **[Noisium](https://modrinth.com/mod/noisium)** - Optimises worldgen performance for a better gameplay experience.
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
@@ -29,6 +31,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 
 - **[Iris Shader](https://modrinth.com/mod/iris)** – A modern shader pack loader for Minecraft.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** – Makes it easy to configure mods and adds a menu for mods.
+- **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Lets you return to the title screen after a crash.
 - **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - A Sodium addon that adds features that shouldn't be in Sodium.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Alternative Options Menu for Sodium.
 - **[Carpet](https://modrinth.com/mod/carpet)** - Take full control over your vanilla game.
@@ -63,6 +66,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[BetterF3](https://modrinth.com/mod/betterf3)** -  highly customizable, more human-readable debug screen.
 - **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - A client mod that adds many shortcuts to move items.
+- **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Enhances inventory management by adding various functions to the mouse buttons.
 - **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - A Fabric Minecraft mod that enhances the game's HUD.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Adds a potency and time indicator overlay to status effect icons.
 - **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Allows you to play Minecraft in a borderless fullscreen window.
