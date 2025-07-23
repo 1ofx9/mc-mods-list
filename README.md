@@ -63,7 +63,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[BetterGrassify](https://modrinth.com/mod/bettergrassify)** -  OptiFine's Fancy and Fast better grass.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Makes the loading screen darker.
 - **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - The trade cycling functionality of Easy Villagers.
-- **[BetterF3](https://modrinth.com/mod/betterf3)** -  highly customizable, more human-readable debug screen.
+- **[Clean F3](https://modrinth.com/mod/clean-f3)** - Removes useless information from the debug screen.
 - **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - A client mod that adds many shortcuts to move items.
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Enhances inventory management by adding various functions to the mouse buttons.
