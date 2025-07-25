@@ -22,8 +22,8 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
 - **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
+- **[Debugify](https://modrinth.com/mod/debugify)** - Fixes Minecraft bugs found on the bug tracker.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
-- **[Debugify](https://modrinth.com/mod/debugify)** ❗ - Fixes Minecraft bugs found on the bug tracker.
 - **[ModernFix](https://modrinth.com/mod/modernfix)** ❗ - Improves performance, reduces memory usage, and fixes many bugs.
 - **[Enhanced Block Entities](https://modrinth.com/mod/ebe)** ❗ - Reduce block entity FPS lag and improve their visuals.
 
@@ -35,6 +35,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - A Sodium addon that adds features that shouldn't be in Sodium.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Alternative Options Menu for Sodium.
 - **[Carpet](https://modrinth.com/mod/carpet)** - Take full control over your vanilla game.
+- **[e4mc](https://modrinth.com/mod/e4mc)** - Open a LAN server to anyone.
 - **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Various client-side tweaks.
 - **[TweakerMore](https://modrinth.com/mod/tweakermore)** - A collection of client-side tweak.
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - A "mini F3" HUD mod, also with various useful stuff.
