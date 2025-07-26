@@ -1,9 +1,11 @@
 # Minecraft Mods List
 
-A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft.
+A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft **1.21.6**.
 
-- ❗ Mod or pack may not be available for Minecraft version 1.21.6.
-- 🔶 A forked version is available.
+> **Note:**
+>
+> - ❗ Mod or pack may not be available for Minecraft version 1.21.6.
+> - 🔶 A forked version is available.
 
 ## ⚡ Optimization Mods
 
