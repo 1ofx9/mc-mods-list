@@ -2,8 +2,7 @@
 
 A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft **1.21.8**.
 
-> **Notes:**
-> 🔶 A forked version is available.
+> **Note:** 🔶 (fork) Indicates a forked version of the mod or resource pack is available and linked.
 
 ## ⚡ Optimization Mods
 
