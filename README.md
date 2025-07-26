@@ -21,12 +21,14 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
 - **[Debugify](https://modrinth.com/mod/debugify)** - Fixes Minecraft bugs found on the bug tracker.
+- **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - improves server performance at high playercounts.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
 
 - **[Iris Shader](https://modrinth.com/mod/iris)** – A modern shader pack loader for Minecraft.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** – Makes it easy to configure mods and adds a menu for mods.
+- **[Litematica](https://modrinth.com/mod/litematica)** - A client-side schematic mod.
 - **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - A Sodium addon that adds features that shouldn't be in Sodium.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Alternative Options Menu for Sodium.
 - **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Various client-side tweaks.
@@ -78,11 +80,16 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)** - Placeholder and Text manipulation library for your Minecraft mods.
 - **[MidnightLib](https://modrinth.com/mod/midnightlib)** - Library mod.
 - **[Searchables](https://modrinth.com/mod/searchables)** - Searchables is a library mod that adds helper methods that allow for searching and filtering.
+- **[Malilib](https://modrinth.com/mod/malilib)** - A library mod for client-side mods.
+- **[LibJF](https://modrinth.com/mod/libjf)** - library mod for JFronny's mods.
+- **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)** - library mod for Fuzs's mods.
+- **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)** - NeoForge's & Forge's config systems.
 
 ## 🪐 Shaders
 
 - **[Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)**
 - **[Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)**
+- **[Sildur's Vibrant shaders](https://sildurs-shaders.github.io/)**
 
 ## 🌍 Resource Packs
 
