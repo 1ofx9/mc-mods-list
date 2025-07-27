@@ -31,6 +31,8 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Litematica](https://modrinth.com/mod/litematica)** - A client-side schematic mod.
 - **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - A Sodium addon that adds features that shouldn't be in Sodium.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Alternative Options Menu for Sodium.
+- **[[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** - Emissive, Random & Custom texture support for entities.
+- **[[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)** - Custom Entity Model replacement mod.
 - **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Various client-side tweaks.
 - **[TweakerMore](https://modrinth.com/mod/tweakermore)** - A collection of client-side tweak.
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - A "mini F3" HUD mod, also with various useful stuff.
