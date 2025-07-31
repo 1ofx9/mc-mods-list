@@ -70,11 +70,15 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)** - Be notified about all the things you've just collected.
 - **[Camera Utils](https://modrinth.com/mod/camera-utils)** - Helpful camera utilities.
 - **[Continuity](https://modrinth.com/mod/continuity)** - A Minecraft mod that allows for efficient connected textures.
+- **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - world organizer.
+- **[Cool Rain](https://modrinth.com/mod/coolrain)** - Creates ambient sounds for certain blocks during rain.
+- **[World Edit](https://modrinth.com/plugin/worldedit)** - world edit.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
 
 - **[Fabric API](https://modrinth.com/mod/fabric-api)** – Required for most fabric mods.
+- **[Cloth Config API](https://modrinth.com/mod/cloth-config)** - Configuration Library for Minecraft Mods.
 - **[Respackopts](https://modrinth.com/mod/respackopts)** - Config menus for resource packs.
 - **[YetAnotherConfigLib](https://modrinth.com/mod/yacl)** - A builder-based configuration library for Minecraft.
 - **[TCDCommons API](https://modrinth.com/mod/tcdcommons)** - Library mod for TheCSDev's mods.
