@@ -2,6 +2,10 @@
 
 A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft **1.21.8**.
 
+## 📥 Download the Modpack
+
+You can download the latest modpack from the [Releases page](https://github.com/1ofx9/mc-mods-list/releases).
+
 > **Note:** 🔶 (fork) Indicates a forked version of the mod or resource pack is available and linked.
 
 ## ⚡ Optimization Mods
