@@ -13,7 +13,6 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** - to see more chunks.
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** - Using async path-tracing to hide Block-/Entities that are not visible.
 - **[More Culling](https://modrinth.com/mod/moreculling)** - A mod that changes how multiple types of culling are handled in order to improve performance.
-- **[Language Reload](https://modrinth.com/mod/language-reload)** - Reduces load times and adds fallbacks for languages.
 - **[Krypton](https://modrinth.com/mod/krypton)** - A mod to optimize the Minecraft networking stack.
 - **[Packet Fixer](https://modrinth.com/mod/packet-fixer)** - fixes various problems with packets and nbt.
 - **[C2ME](https://modrinth.com/mod/c2me-fabric)** - A Fabric mod designed to improve the chunk performance of Minecraft.
@@ -31,8 +30,6 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Litematica](https://modrinth.com/mod/litematica)** - A client-side schematic mod.
 - **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - A Sodium addon that adds features that shouldn't be in Sodium.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Alternative Options Menu for Sodium.
-- **[[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** - Emissive, Random & Custom texture support for entities.
-- **[[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)** - Custom Entity Model replacement mod.
 - **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Various client-side tweaks.
 - **[TweakerMore](https://modrinth.com/mod/tweakermore)** - A collection of client-side tweak.
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - A "mini F3" HUD mod, also with various useful stuff.
