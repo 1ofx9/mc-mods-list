@@ -74,6 +74,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - world organizer.
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - Creates ambient sounds for certain blocks during rain.
 - **[World Edit](https://modrinth.com/plugin/worldedit)** - world edit.
+- **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
