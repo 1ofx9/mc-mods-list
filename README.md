@@ -95,8 +95,10 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 ## 🪐 Shaders
 
-- **[Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)**
-- **[Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)**
+- **[Complementary Shaders](https://modrinth.com/user/EminGT)**
+- **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)**
+- **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
+- **[Solas Shader](https://modrinth.com/shader/solas-shader)**
 - **[Sildur's Vibrant shaders](https://sildurs-shaders.github.io/)**
 
 ## 🌍 Resource Packs
