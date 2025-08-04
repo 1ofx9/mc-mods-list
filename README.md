@@ -104,7 +104,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 ## 🌍 Resource Packs
 
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
-- **[Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
 - **[Reimagined GUI (Dark)](https://modrinth.com/resourcepack/reimaginedguidark)** (i usually delete the custom panorama screen)
