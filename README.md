@@ -25,6 +25,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
 - **[Debugify](https://modrinth.com/mod/debugify)** - Fixes Minecraft bugs found on the bug tracker.
 - **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - improves server performance at high playercounts.
+- **[FastQuit](https://modrinth.com/mod/fastquit)** - Lets return to the Title Screen early while your world is still saving.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
