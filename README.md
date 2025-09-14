@@ -26,6 +26,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Debugify](https://modrinth.com/mod/debugify)** - Fixes Minecraft bugs found on the bug tracker.
 - **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - improves server performance at high playercounts.
 - **[FastQuit](https://modrinth.com/mod/fastquit)** - Lets return to the Title Screen early while your world is still saving.
+- **[Carpet](https://modrinth.com/mod/carpet)** - full control over your vanilla game.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -96,15 +97,14 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 ## 🪐 Shaders
 
-- **[Complementary Shaders](https://modrinth.com/user/EminGT)** with [Euphoria Patches](https://modrinth.com/mod/euphoria-patches)
+- **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
 - **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)**
-- **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
 - **[Bliss Shaders](https://modrinth.com/shader/bliss-shader)**
-- **[Sildur's Vibrant shaders](https://sildurs-shaders.github.io/)**
 
 ## 🌍 Resource Packs
 
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
+- **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
 - **[Reimagined GUI (Dark)](https://modrinth.com/resourcepack/reimaginedguidark)** (i usually delete the custom panorama screen)
