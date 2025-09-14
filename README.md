@@ -27,6 +27,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - improves server performance at high playercounts.
 - **[FastQuit](https://modrinth.com/mod/fastquit)** - Lets return to the Title Screen early while your world is still saving.
 - **[Carpet](https://modrinth.com/mod/carpet)** - full control over your vanilla game.
+- **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in Block Models and Item Models.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -77,6 +78,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - Creates ambient sounds for certain blocks during rain.
 - **[World Edit](https://modrinth.com/plugin/worldedit)** - world edit.
 - **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
+- **[Highlight](https://modrinth.com/mod/highlight)** - Highlight changes the visualization of specific blocks.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
