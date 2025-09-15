@@ -111,5 +111,5 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)**
-- **[Colourful containers Dark Mode GUI](https://modrinth.com/resourcepack/colourful-containers-dark-mode-gui)**
+- **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
