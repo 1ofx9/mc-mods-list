@@ -28,6 +28,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[FastQuit](https://modrinth.com/mod/fastquit)** - Lets return to the Title Screen early while your world is still saving.
 - **[Carpet](https://modrinth.com/mod/carpet)** - full control over your vanilla game.
 - **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in Block Models and Item Models.
+- **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Takes back to the title screen after a crash.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
