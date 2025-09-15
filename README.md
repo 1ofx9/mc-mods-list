@@ -80,6 +80,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[World Edit](https://modrinth.com/plugin/worldedit)** - world edit.
 - **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
 - **[Highlight](https://modrinth.com/mod/highlight)** - Highlight changes the visualization of specific blocks.
+- **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
@@ -97,6 +98,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[LibJF](https://modrinth.com/mod/libjf)** - library mod for JFronny's mods.
 - **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)** - library mod for Fuzs's mods.
 - **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)** - NeoForge's & Forge's config systems.
+- **[OptiGUI](https://modrinth.com/mod/optigui)** - custom GUI textures on Fabric.
 
 ## 🪐 Shaders
 
@@ -109,5 +111,5 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)**
+- **[Colourful containers Dark Mode GUI](https://modrinth.com/resourcepack/colourful-containers-dark-mode-gui)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
-- **[Reimagined GUI (Dark)](https://modrinth.com/resourcepack/reimaginedguidark)** (i usually delete the custom panorama screen)
