@@ -81,6 +81,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
 - **[Highlight](https://modrinth.com/mod/highlight)** - Highlight changes the visualization of specific blocks.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
+- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - Villager Timetable.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
