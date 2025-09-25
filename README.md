@@ -29,6 +29,9 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Carpet](https://modrinth.com/mod/carpet)** - full control over your vanilla game.
 - **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in Block Models and Item Models.
 - **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Takes back to the title screen after a crash.
+- **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** - Makes chat unreportable.
+- **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Disables telemetry.
+- **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -82,6 +85,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Highlight](https://modrinth.com/mod/highlight)** - Highlight changes the visualization of specific blocks.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - Villager Timetable.
+- **[Stendhal](https://modrinth.com/mod/stendhal)** - enhanced visual utilities for books, signs, anvil and the in-game chat.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
