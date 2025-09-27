@@ -91,20 +91,23 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 ## 📦 Dependencies
 
-- **[Fabric API](https://modrinth.com/mod/fabric-api)** – Required for most fabric mods.
-- **[Cloth Config API](https://modrinth.com/mod/cloth-config)** - Configuration Library for Minecraft Mods.
-- **[Respackopts](https://modrinth.com/mod/respackopts)** - Config menus for resource packs.
-- **[YetAnotherConfigLib](https://modrinth.com/mod/yacl)** - A builder-based configuration library for Minecraft.
-- **[TCDCommons API](https://modrinth.com/mod/tcdcommons)** - Library mod for TheCSDev's mods.
-- **[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)** - Kotlin programming language for Fabric mods.
-- **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)** - Placeholder and Text manipulation library for your Minecraft mods.
-- **[MidnightLib](https://modrinth.com/mod/midnightlib)** - Library mod.
-- **[Searchables](https://modrinth.com/mod/searchables)** - Searchables is a library mod that adds helper methods that allow for searching and filtering.
-- **[Malilib](https://modrinth.com/mod/malilib)** - A library mod for client-side mods.
-- **[LibJF](https://modrinth.com/mod/libjf)** - library mod for JFronny's mods.
-- **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)** - library mod for Fuzs's mods.
-- **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)** - NeoForge's & Forge's config systems.
-- **[OptiGUI](https://modrinth.com/mod/optigui)** - custom GUI textures on Fabric.
+- **[Fabric API](https://modrinth.com/mod/fabric-api)**
+- **[Cloth Config API](https://modrinth.com/mod/cloth-config)**
+- **[Respackopts](https://modrinth.com/mod/respackopts)**
+- **[YetAnotherConfigLib](https://modrinth.com/mod/yacl)**
+- **[TCDCommons API](https://modrinth.com/mod/tcdcommons)**
+- **[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)**
+- **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)**
+- **[MidnightLib](https://modrinth.com/mod/midnightlib)**
+- **[Searchables](https://modrinth.com/mod/searchables)**
+- **[Malilib](https://modrinth.com/mod/malilib)**
+- **[LibJF](https://modrinth.com/mod/libjf)**
+- **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)**
+- **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)**
+- **[OptiGUI](https://modrinth.com/mod/optigui)**
+- **[Architectury API](https://modrinth.com/mod/architectury-api)**
+- **[Balm](https://modrinth.com/mod/balm)**
+- **[Prickle](https://modrinth.com/mod/prickle)**
 
 ## 🪐 Shaders
 
