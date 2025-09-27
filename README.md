@@ -112,6 +112,8 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
 - **[BSL Shaders](https://modrinth.com/user/CaptTatsus)**
 - **[Bliss Shaders](https://modrinth.com/shader/bliss-shader)**
+- **[Photon Shaders](modrinth.com/shader/photon-shader)**
+- **[Solas Shader](https://modrinth.com/shader/solas-shader)**
 
 ## 🌍 Resource Packs
 
