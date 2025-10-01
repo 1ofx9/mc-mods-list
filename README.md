@@ -85,7 +85,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Highlight](https://modrinth.com/mod/highlight)** - Highlight changes the visualization of specific blocks.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - Villager Timetable.
-- **[Stendhal](https://modrinth.com/mod/stendhal)** - enhanced visual utilities for books, signs, anvil and the in-game chat.
 - **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - An Overly complicated Sound Mod.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
