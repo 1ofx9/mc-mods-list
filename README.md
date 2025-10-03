@@ -86,6 +86,8 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - Villager Timetable.
 - **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - An Overly complicated Sound Mod.
+- **[Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)** - Inspect any book in a chiseled bookshelf.
+- **[Lighty](https://modrinth.com/mod/lighty)** - Light Overlay Mod.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
@@ -122,4 +124,5 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)**
 - **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
+- **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
