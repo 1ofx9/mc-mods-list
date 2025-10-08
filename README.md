@@ -88,6 +88,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - An Overly complicated Sound Mod.
 - **[Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)** - Inspect any book in a chiseled bookshelf.
 - **[Lighty](https://modrinth.com/mod/lighty)** - Light Overlay Mod.
+- **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Beautiful clouds in touch with the vanilla style.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
@@ -125,4 +126,5 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)**
 - **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
 - **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
+- **[Full blue Netherite & Ancient Debris](https://modrinth.com/resourcepack/full-blue-netherite)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
