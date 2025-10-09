@@ -32,6 +32,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** - Makes chat unreportable.
 - **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Disables telemetry.
 - **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
+- **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -54,7 +55,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Adds dynamic lights to Minecraft.
 - **[Jade](https://modrinth.com/mod/jade)** - Shows information about what you are looking at.
 - **[Chat Heads](https://modrinth.com/mod/chat-heads)** - See who you're chatting with!.
-- **[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)** - View the contents of shulker boxes from your inventory.
+- **[Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes)** - easy shulker boxes.
 - **[More Chat History](https://modrinth.com/mod/morechathistory)** - Increases the maximum length of chat history.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improves the statistics screen and makes it more useful.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Improves the ingame HUD while riding a mount.
@@ -89,6 +90,9 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)** - Inspect any book in a chiseled bookshelf.
 - **[Lighty](https://modrinth.com/mod/lighty)** - Light Overlay Mod.
 - **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Beautiful clouds in touch with the vanilla style.
+- **[Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Makes chat messages appear with a smooth animation.
+- **[Client Sort](https://modrinth.com/mod/clientsort)** - Versatile and easy inventory sorting.
+- **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Show player heads on the locator bar.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
@@ -118,6 +122,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Bliss Shaders](https://modrinth.com/shader/bliss-shader)**
 - **[Photon Shaders](modrinth.com/shader/photon-shader)**
 - **[Solas Shader](https://modrinth.com/shader/solas-shader)**
+- **[IterationT](https://www.minegraph.cn/shaderpacks/12)**
 
 ## 🌍 Resource Packs
 
@@ -127,4 +132,4 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
 - **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
 - **[Full blue Netherite & Ancient Debris](https://modrinth.com/resourcepack/full-blue-netherite)**
-- **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
+- **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** with **[VTDownloader](https://modrinth.com/mod/vtdownloader)** (custom selection of packs)
