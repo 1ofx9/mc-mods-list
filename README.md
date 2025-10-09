@@ -68,7 +68,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - The trade cycling functionality of Easy Villagers.
 - **[Clean F3](https://modrinth.com/mod/clean-f3)** - Removes useless information from the debug screen.
 - **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
-- **[Item Scroller](https://modrinth.com/mod/item-scroller)** - A client mod that adds many shortcuts to move items.
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Enhances inventory management by adding various functions to the mouse buttons.
 - **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - A Fabric Minecraft mod that enhances the game's HUD.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Adds a potency and time indicator overlay to status effect icons.
