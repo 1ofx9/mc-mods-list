@@ -25,7 +25,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
 - **[Debugify](https://modrinth.com/mod/debugify)** - Fixes Minecraft bugs found on the bug tracker.
 - **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - improves server performance at high playercounts.
-- **[FastQuit](https://modrinth.com/mod/fastquit)** - Lets return to the Title Screen early while your world is still saving.
 - **[Carpet](https://modrinth.com/mod/carpet)** - full control over your vanilla game.
 - **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in Block Models and Item Models.
 - **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Takes back to the title screen after a crash.
@@ -92,6 +91,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Makes chat messages appear with a smooth animation.
 - **[Client Sort](https://modrinth.com/mod/clientsort)** - Versatile and easy inventory sorting.
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Show player heads on the locator bar.
+- **[Item Scroller](https://modrinth.com/mod/item-scroller)**- shortcuts to move items easier and craft faster in inventory screens.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
