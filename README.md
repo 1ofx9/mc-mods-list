@@ -14,7 +14,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Lithium](https://modrinth.com/mod/lithium)** – Makes the game physics run better.
 - **[FerriteCore](https://modrinth.com/mod/ferrite-core)** – Helps with RAM usage.
 - **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Speed up immediate mode rendering in Minecraft.
-- **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** - to see more chunks.
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** - Using async path-tracing to hide Block-/Entities that are not visible.
 - **[More Culling](https://modrinth.com/mod/moreculling)** - A mod that changes how multiple types of culling are handled in order to improve performance.
 - **[Krypton](https://modrinth.com/mod/krypton)** - A mod to optimize the Minecraft networking stack.
@@ -32,6 +31,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Disables telemetry.
 - **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
 - **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
+- **[Fast Backups](https://modrinth.com/mod/fastback)** - incremental world backups powered by Git.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
