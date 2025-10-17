@@ -89,7 +89,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Lighty](https://modrinth.com/mod/lighty)** - Light Overlay Mod.
 - **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Beautiful clouds in touch with the vanilla style.
 - **[Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Makes chat messages appear with a smooth animation.
-- **[Client Sort](https://modrinth.com/mod/clientsort)** - Versatile and easy inventory sorting.
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Show player heads on the locator bar.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)**- shortcuts to move items easier and craft faster in inventory screens.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
