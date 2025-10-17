@@ -91,6 +91,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Makes chat messages appear with a smooth animation.
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Show player heads on the locator bar.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)**- shortcuts to move items easier and craft faster in inventory screens.
+- **[FuelInfo](https://modrinth.com/mod/fuel-info)** - extended info on vanilla Furnaces and brewing stand.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
