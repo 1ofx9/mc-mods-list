@@ -82,7 +82,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[World Edit](https://modrinth.com/plugin/worldedit)** - world edit.
 - **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
 - **[Highlight](https://modrinth.com/mod/highlight)** - Highlight changes the visualization of specific blocks.
-- **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
 - **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - Villager Timetable.
 - **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - An Overly complicated Sound Mod.
 - **[Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)** - Inspect any book in a chiseled bookshelf.
