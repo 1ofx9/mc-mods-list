@@ -31,7 +31,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Disables telemetry.
 - **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
 - **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
-- **[Fast Backups](https://modrinth.com/mod/fastback)** - incremental world backups powered by Git.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -62,7 +61,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Blur+](https://modrinth.com/mod/blur-plus)** - adds blur effect.
 - **[WorldEdit](https://modrinth.com/plugin/worldedit)** - A Minecraft Map Editor.
 - **[Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)** - Smoothly scrolls chat, hotbar, creative inventory and much more!.
-- **[BetterGrassify](https://modrinth.com/mod/bettergrassify)** -  OptiFine's Fancy and Fast better grass.
+- **[BetterGrassify](https://modrinth.com/mod/bettergrassify)** - OptiFine's Fancy and Fast better grass.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Makes the loading screen darker.
 - **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - The trade cycling functionality of Easy Villagers.
 - **[Clean F3](https://modrinth.com/mod/clean-f3)** - Removes useless information from the debug screen.
@@ -90,7 +89,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Makes chat messages appear with a smooth animation.
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Show player heads on the locator bar.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)**- shortcuts to move items easier and craft faster in inventory screens.
-- **[FuelInfo](https://modrinth.com/mod/fuel-info)** - extended info on vanilla Furnaces and brewing stand.
+- **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
