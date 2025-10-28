@@ -31,6 +31,8 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Disables telemetry.
 - **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
 - **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
+- **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Reduce resource usage while Minecraft is in the background, idle, or on battery.
+- **[FastQuit](https://modrinth.com/mod/fastquit)** - Return to the Title Screen early while your world is still saving.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -47,7 +49,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** – Displays a minimap in the corner of the screen.
 - **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - Adds a world map.
 - **[Xaero Zoomout](https://modrinth.com/mod/xaero-zoomout)** - Reduces the minimum zoom of Xaero's World Map from 0.0625x to 0.0025x.
-- **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Reduce resource usage while Minecraft is in the background, idle, or on battery.
 - **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)** - Render the player skin layer in 3d!.
 - **[Zoomify](https://modrinth.com/mod/zoomify)** - A zoom mod with infinite customizability.
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Adds dynamic lights to Minecraft.
@@ -90,6 +91,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Show player heads on the locator bar.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)**- shortcuts to move items easier and craft faster in inventory screens.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
+- **[Scribble](https://modrinth.com/mod/scribble)** - easy book editing.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
