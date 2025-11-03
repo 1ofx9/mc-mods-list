@@ -1,6 +1,6 @@
 # Minecraft Mods List
 
-A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft **1.21.8**.
+A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft **1.21.10**.
 
 ## 📥 Download the Modpack
 
@@ -16,18 +16,13 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Speed up immediate mode rendering in Minecraft.
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** - Using async path-tracing to hide Block-/Entities that are not visible.
 - **[More Culling](https://modrinth.com/mod/moreculling)** - A mod that changes how multiple types of culling are handled in order to improve performance.
-- **[Krypton](https://modrinth.com/mod/krypton)** - A mod to optimize the Minecraft networking stack.
 - **[Packet Fixer](https://modrinth.com/mod/packet-fixer)** - fixes various problems with packets and nbt.
 - **[C2ME](https://modrinth.com/mod/c2me-fabric)** - A Fabric mod designed to improve the chunk performance of Minecraft.
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
 - **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
-- **[Debugify](https://modrinth.com/mod/debugify)** - Fixes Minecraft bugs found on the bug tracker.
 - **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - improves server performance at high playercounts.
-- **[Carpet](https://modrinth.com/mod/carpet)** - full control over your vanilla game.
 - **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in Block Models and Item Models.
-- **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Takes back to the title screen after a crash.
-- **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** - Makes chat unreportable.
 - **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Disables telemetry.
 - **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
 - **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
@@ -64,70 +59,59 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[BetterGrassify](https://modrinth.com/mod/bettergrassify)** - OptiFine's Fancy and Fast better grass.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Makes the loading screen darker.
 - **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - The trade cycling functionality of Easy Villagers.
-- **[Clean F3](https://modrinth.com/mod/clean-f3)** - Removes useless information from the debug screen.
 - **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Enhances inventory management by adding various functions to the mouse buttons.
 - **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - A Fabric Minecraft mod that enhances the game's HUD.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Adds a potency and time indicator overlay to status effect icons.
 - **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Allows you to play Minecraft in a borderless fullscreen window.
 - **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
-- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar to the Key-Bindings menu.
 - **[Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)** - Be notified about all the things you've just collected.
 - **[Camera Utils](https://modrinth.com/mod/camera-utils)** - Helpful camera utilities.
-- **[Continuity](https://modrinth.com/mod/continuity)** - A Minecraft mod that allows for efficient connected textures.
 - **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - world organizer.
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - Creates ambient sounds for certain blocks during rain.
 - **[World Edit](https://modrinth.com/plugin/worldedit)** - world edit.
 - **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
-- **[Highlight](https://modrinth.com/mod/highlight)** - Highlight changes the visualization of specific blocks.
-- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - Villager Timetable.
-- **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - An Overly complicated Sound Mod.
-- **[Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)** - Inspect any book in a chiseled bookshelf.
 - **[Lighty](https://modrinth.com/mod/lighty)** - Light Overlay Mod.
-- **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Beautiful clouds in touch with the vanilla style.
-- **[Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Makes chat messages appear with a smooth animation.
-- **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Show player heads on the locator bar.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)**- shortcuts to move items easier and craft faster in inventory screens.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
 - **[Scribble](https://modrinth.com/mod/scribble)** - easy book editing.
+- **[Respackopts](https://modrinth.com/mod/respackopts)** - Config menus for resource packs.
+- **[OptiGUI](https://modrinth.com/mod/optigui)** - custom GUI textures on Fabric.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
 
 - **[Fabric API](https://modrinth.com/mod/fabric-api)**
 - **[Cloth Config API](https://modrinth.com/mod/cloth-config)**
-- **[Respackopts](https://modrinth.com/mod/respackopts)**
 - **[YetAnotherConfigLib](https://modrinth.com/mod/yacl)**
-- **[TCDCommons API](https://modrinth.com/mod/tcdcommons)**
 - **[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)**
 - **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)**
-- **[MidnightLib](https://modrinth.com/mod/midnightlib)**
 - **[Searchables](https://modrinth.com/mod/searchables)**
 - **[Malilib](https://modrinth.com/mod/malilib)**
 - **[LibJF](https://modrinth.com/mod/libjf)**
 - **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)**
 - **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)**
-- **[OptiGUI](https://modrinth.com/mod/optigui)**
 - **[Architectury API](https://modrinth.com/mod/architectury-api)**
 - **[Balm](https://modrinth.com/mod/balm)**
-- **[Prickle](https://modrinth.com/mod/prickle)**
 
 ## 🪐 Shaders
 
-- **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
-- **[BSL Shaders](https://modrinth.com/user/CaptTatsus)**
 - **[Bliss Shaders](https://modrinth.com/shader/bliss-shader)**
-- **[Photon Shaders](modrinth.com/shader/photon-shader)**
-- **[Solas Shader](https://modrinth.com/shader/solas-shader)**
+- **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)**
+- **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
 - **[IterationT](https://www.minegraph.cn/shaderpacks/12)**
+- **[Nobel Shaders](https://modrinth.com/shader/noble)**
+- **[Photon Shaders](modrinth.com/shader/photon-shader)**
+- **[Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)**
+- **[Solas Shader](https://modrinth.com/shader/solas-shader)**
 
 ## 🌍 Resource Packs
 
-- **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
-- **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)**
-- **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
-- **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
 - **[Full blue Netherite & Ancient Debris](https://modrinth.com/resourcepack/full-blue-netherite)**
-- **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** with **[VTDownloader](https://modrinth.com/mod/vtdownloader)** (custom selection of packs)
+- **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
+- **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
+- **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
+- **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
+- **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
