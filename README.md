@@ -60,7 +60,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Improves the ingame HUD while riding a mount.
 - **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - Makes bubble particles pop and rise realistically.
 - **[Blur+](https://modrinth.com/mod/blur-plus)** - adds blur effect.
-- **[WorldEdit](https://modrinth.com/plugin/worldedit)** - A Minecraft Map Editor.
 - **[Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)** - Smoothly scrolls chat, hotbar, creative inventory and much more!.
 - **[BetterGrassify](https://modrinth.com/mod/bettergrassify)** - OptiFine's Fancy and Fast better grass.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Makes the loading screen darker.
