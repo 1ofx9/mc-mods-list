@@ -27,7 +27,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
 - **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Reduce resource usage while Minecraft is in the background, idle, or on battery.
-- **[FastQuit](https://modrinth.com/mod/fastquit)** - Return to the Title Screen early while your world is still saving.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -78,6 +77,12 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Scribble](https://modrinth.com/mod/scribble)** - easy book editing.
 - **[Respackopts](https://modrinth.com/mod/respackopts)** - Config menus for resource packs.
 - **[OptiGUI](https://modrinth.com/mod/optigui)** - custom GUI textures on Fabric.
+- **[Better F1 Reborn](https://modrinth.com/mod/better-f1-reborn)** - Hide only the HUD using F1.
+- **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** - custom models.
+- **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** - custom textures.
+- **[Calc Mod](https://modrinth.com/mod/calcmod)** - in game calculator.
+- **[Chat Animation[Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Chat animations.
+- **[World Play Time](https://modrinth.com/mod/world-play-time)** - Displays the world's play time in the world selection menu.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
@@ -94,6 +99,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)**
 - **[Architectury API](https://modrinth.com/mod/architectury-api)**
 - **[Balm](https://modrinth.com/mod/balm)**
+- **[TCDCommons API](https://modrinth.com/mod/tcdcommons)**
 
 ## 🪐 Shaders
 
