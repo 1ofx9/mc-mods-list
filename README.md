@@ -10,25 +10,29 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 ## ⚡ Optimization Mods
 
-- **[Sodium](https://modrinth.com/mod/sodium)** – Essential for FPS boost.
-- **[Lithium](https://modrinth.com/mod/lithium)** – Makes the game physics run better.
-- **[FerriteCore](https://modrinth.com/mod/ferrite-core)** – Helps with RAM usage.
-- **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Speed up immediate mode rendering in Minecraft.
-- **[Entity Culling](https://modrinth.com/mod/entityculling)** - Using async path-tracing to hide Block-/Entities that are not visible.
-- **[More Culling](https://modrinth.com/mod/moreculling)** - A mod that changes how multiple types of culling are handled in order to improve performance.
-- **[Packet Fixer](https://modrinth.com/mod/packet-fixer)** - fixes various problems with packets and nbt.
-- **[C2ME](https://modrinth.com/mod/c2me-fabric)** - A Fabric mod designed to improve the chunk performance of Minecraft.
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)** - Optimization mod that focuses on things other than rendering.
-- **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when necessary.
+- **[C2ME](https://modrinth.com/mod/c2me-fabric)** - Improves chunk performance.
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps XP orbs together to reduce lag.
-- **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - improves server performance at high playercounts.
-- **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in Block Models and Item Models.
+- **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - Restore deleted worlds from recycle bin.
+- **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Reduces resource usage when MC is idle/background.
+- **[Entity Culling](https://modrinth.com/mod/entityculling)** - Async path-tracing to hide unseen entities.
+- **[Fast Quit](https://modrinth.com/mod/fastquit)** - return to the Title Screen early while your world is still saving in the background.
+- **[FerriteCore](https://modrinth.com/mod/ferrite-core)** - Reduces RAM usage.
+- **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Speeds up immediate mode rendering.
+- **[Krypton](https://modrinth.com/mod/krypton)** - A mod to optimize the Minecraft networking stack.
+- **[Lithium](https://modrinth.com/mod/lithium)** - Physics and system optimizations.
+- **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes rendering gaps in block/item models.
+- **[More Culling](https://modrinth.com/mod/moreculling)** - Changes multiple culling systems for performance.
+- **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Fixes nether portal destination inconsistencies.
 - **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Disables telemetry.
-- **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
-- **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
-- **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Reduce resource usage while Minecraft is in the background, idle, or on battery.
+- **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Skip restarts after crashes.
+- **[Packet Fixer](https://modrinth.com/mod/packet-fixer)** - Fixes packet/NBT issues.
+- **[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)** - Only load server resource packs when needed.
+- **[Sodium](https://modrinth.com/mod/sodium)** - Massive FPS boost.
+- **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - Improves server performance with many players.
+- **[Voxy](https://modrinth.com/mod/voxy)** - A Level of Detail rendering mod.
 - **[Carpet Mod](https://modrinth.com/mod/carpet) 🔶 [(github)](https://github.com/gnembon/fabric-carpet)** - Take full control over your vanilla game.
-- **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
+- **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Better GPU performance for Nvidia.
 
 ## 🔧 Utility Mods (QoL mods)
 
