@@ -97,19 +97,19 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 ## 📦 Dependencies
 
-- **[Fabric API](https://modrinth.com/mod/fabric-api)**
-- **[Cloth Config API](https://modrinth.com/mod/cloth-config)**
-- **[YetAnotherConfigLib](https://modrinth.com/mod/yacl)**
-- **[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)**
-- **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)**
-- **[Searchables](https://modrinth.com/mod/searchables)**
-- **[Malilib](https://modrinth.com/mod/malilib)**
-- **[LibJF](https://modrinth.com/mod/libjf)**
-- **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)**
-- **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)**
 - **[Architectury API](https://modrinth.com/mod/architectury-api)**
 - **[Balm](https://modrinth.com/mod/balm)**
+- **[Cloth Config API](https://modrinth.com/mod/cloth-config)**
+- **[Fabric API](https://modrinth.com/mod/fabric-api)**
+- **[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)**
+- **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)**
+- **[LibJF](https://modrinth.com/mod/libjf)**
+- **[Malilib](https://modrinth.com/mod/malilib)**
+- **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)**
+- **[Searchables](https://modrinth.com/mod/searchables)**
 - **[TCDCommons API](https://modrinth.com/mod/tcdcommons)**
+- **[Text Placeholder API](https://modrinth.com/mod/placeholder-api)**
+- **[YetAnotherConfigLib](https://modrinth.com/mod/yacl)**
 
 ## 🪐 Shaders
 
