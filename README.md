@@ -115,10 +115,10 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 - **[Bliss Shaders](https://modrinth.com/shader/bliss-shader)**
 - **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)**
-- **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
+- **[Complementary Shaders](https://modrinth.com/user/EminGT)** + **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
 - **[IterationT](https://www.minegraph.cn/shaderpacks/12)**
 - **[Nobel Shaders](https://modrinth.com/shader/noble)**
-- **[Photon Shaders](modrinth.com/shader/photon-shader)**
+- **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
 - **[Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)**
 - **[Solas Shader](https://modrinth.com/shader/solas-shader)**
 
@@ -129,5 +129,5 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
 - **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
-- **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)** (custom selection of packs)
+- **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)**
 - **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
