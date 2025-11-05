@@ -27,6 +27,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)** - Ensures correct destinations when travelling back and forth through Nether Portals.
 - **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - restore deleted worlds from recycle bin.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Reduce resource usage while Minecraft is in the background, idle, or on battery.
+- **[Carpet Mod](https://modrinth.com/mod/carpet) 🔶 [(github)](https://github.com/gnembon/fabric-carpet)** - Take full control over your vanilla game.
 - **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Used to increase performance on Nvidia gpus.
 
 ## 🔧 Utility Mods (QoL mods)
@@ -83,6 +84,9 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Calc Mod](https://modrinth.com/mod/calcmod)** - in game calculator.
 - **[Chat Animation[Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Chat animations.
 - **[World Play Time](https://modrinth.com/mod/world-play-time)** - Displays the world's play time in the world selection menu.
+- **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - Footstep sound enhancement mod.
+- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - A tool for visualising villager schedules.
+- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
 - **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
 
 ## 📦 Dependencies
