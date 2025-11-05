@@ -36,62 +36,64 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 ## 🔧 Utility Mods (QoL mods)
 
-- **[Iris Shader](https://modrinth.com/mod/iris)** – A modern shader pack loader for Minecraft.
-- **[Mod Menu](https://modrinth.com/mod/modmenu)** – Makes it easy to configure mods and adds a menu for mods.
-- **[Litematica](https://modrinth.com/mod/litematica)** - A client-side schematic mod.
-- **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - A Sodium addon that adds features that shouldn't be in Sodium.
-- **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Alternative Options Menu for Sodium.
-- **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Various client-side tweaks.
-- **[TweakerMore](https://modrinth.com/mod/tweakermore)** - A collection of client-side tweak.
-- **[Mini HUD](https://modrinth.com/mod/minihud)** - A "mini F3" HUD mod, also with various useful stuff.
-- **[AppleSkin](https://modrinth.com/mod/appleskin)** - Food/hunger-related HUD improvements
-- **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** – Displays a minimap in the corner of the screen.
-- **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - Adds a world map.
-- **[Xaero Zoomout](https://modrinth.com/mod/xaero-zoomout)** - Reduces the minimum zoom of Xaero's World Map from 0.0625x to 0.0025x.
-- **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)** - Render the player skin layer in 3d!.
-- **[Zoomify](https://modrinth.com/mod/zoomify)** - A zoom mod with infinite customizability.
-- **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Adds dynamic lights to Minecraft.
-- **[Jade](https://modrinth.com/mod/jade)** - Shows information about what you are looking at.
-- **[Chat Heads](https://modrinth.com/mod/chat-heads)** - See who you're chatting with!.
-- **[Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes)** - easy shulker boxes.
-- **[More Chat History](https://modrinth.com/mod/morechathistory)** - Increases the maximum length of chat history.
-- **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improves the statistics screen and makes it more useful.
-- **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Improves the ingame HUD while riding a mount.
-- **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - Makes bubble particles pop and rise realistically.
-- **[Blur+](https://modrinth.com/mod/blur-plus)** - adds blur effect.
-- **[Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)** - Smoothly scrolls chat, hotbar, creative inventory and much more!.
-- **[BetterGrassify](https://modrinth.com/mod/bettergrassify)** - OptiFine's Fancy and Fast better grass.
-- **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Makes the loading screen darker.
-- **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - The trade cycling functionality of Easy Villagers.
-- **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Ability to change the visibility of item frames!
-- **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Enhances inventory management by adding various functions to the mouse buttons.
-- **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - A Fabric Minecraft mod that enhances the game's HUD.
-- **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Adds a potency and time indicator overlay to status effect icons.
-- **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Allows you to play Minecraft in a borderless fullscreen window.
-- **[Raised](https://modrinth.com/mod/raised)** - Raises the hotbar so the selector is not cut off!.
-- **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar to the Key-Bindings menu.
-- **[Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)** - Be notified about all the things you've just collected.
-- **[Camera Utils](https://modrinth.com/mod/camera-utils)** - Helpful camera utilities.
-- **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - world organizer.
-- **[Cool Rain](https://modrinth.com/mod/coolrain)** - Creates ambient sounds for certain blocks during rain.
-- **[World Edit](https://modrinth.com/plugin/worldedit)** - world edit.
-- **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Take insanely large screenshots.
-- **[Lighty](https://modrinth.com/mod/lighty)** - Light Overlay Mod.
-- **[Item Scroller](https://modrinth.com/mod/item-scroller)**- shortcuts to move items easier and craft faster in inventory screens.
-- **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Replaces weather with prettier particle effects.
-- **[Scribble](https://modrinth.com/mod/scribble)** - easy book editing.
-- **[Respackopts](https://modrinth.com/mod/respackopts)** - Config menus for resource packs.
-- **[OptiGUI](https://modrinth.com/mod/optigui)** - custom GUI textures on Fabric.
-- **[Better F1 Reborn](https://modrinth.com/mod/better-f1-reborn)** - Hide only the HUD using F1.
-- **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** - custom models.
-- **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** - custom textures.
-- **[Calc Mod](https://modrinth.com/mod/calcmod)** - in game calculator.
-- **[Chat Animation[Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Chat animations.
-- **[World Play Time](https://modrinth.com/mod/world-play-time)** - Displays the world's play time in the world selection menu.
-- **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - Footstep sound enhancement mod.
-- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - A tool for visualising villager schedules.
-- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - A mod that allows the player to view locked villager trades.
-- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - More detail about armor in Armor bar!.
+- **[AppleSkin](https://modrinth.com/mod/appleskin)** - Food/hunger HUD improvements.
+- **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Beautiful clouds in touch with the vanilla style.
+- **[Better F1 Reborn](https://modrinth.com/mod/better-f1-reborn)** - Hide only HUD using F1.
+- **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - Fancy/fast better grass (OptiFine-like).
+- **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Enhanced mount HUD.
+- **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improved stat screen.
+- **[Blur+](https://modrinth.com/mod/blur-plus)** - Adds blur UI effects.
+- **[Calc Mod](https://modrinth.com/mod/calcmod)** - In-game calculator.
+- **[Camera Utils](https://modrinth.com/mod/camera-utils)** - Camera tool improvements.
+- **[Chat Animation[Smooth Chat]](https://modrinth.com/mod/chatanimation)** - Smooth chat animations.
+- **[Chat Heads](https://modrinth.com/mod/chat-heads)** - Shows heads in chat.
+- **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - World organizer.
+- **[Clean F3](https://modrinth.com/mod/clean-f3)** - Removes useless information from the debug screen.
+- **[Continuity](https://modrinth.com/mod/continuity)** - A Minecraft mod that allows for efficient connected textures.
+- **[Controlling](https://modrinth.com/mod/controlling)** - Search bar for keybinds.
+- **[Cool Rain](https://modrinth.com/mod/coolrain)** - Ambient rain sounds.
+- **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Borderless fullscreen.
+- **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Dark loading screen.
+- **[Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes)** - Quick shulker box access.
+- **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Potion timers overlay.
+- **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** - Custom entity models.
+- **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** - Custom entity textures.
+- **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Ultra-resolution screenshots.
+- **[Iris Shader](https://modrinth.com/mod/iris)** - Shader loader.
+- **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Inventory shortcuts.
+- **[Jade](https://modrinth.com/mod/jade)** - WAILA info display.
+- **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Dynamic lights.
+- **[Lighty](https://modrinth.com/mod/lighty)** - Light overlay tool.
+- **[Litematica](https://modrinth.com/mod/litematica)** - Blueprint/schematic mod.
+- **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - More realistic bubbles.
+- **[Mini HUD](https://modrinth.com/mod/minihud)** - Mini-F3 HUD & overlays.
+- **[Mod Menu](https://modrinth.com/mod/modmenu)** - Mod config menu.
+- **[More Chat History](https://modrinth.com/mod/morechathistory)** - Bigger chat history.
+- **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Better inventory interaction.
+- **[OptiGUI](https://modrinth.com/mod/optigui)** - Custom GUI textures.
+- **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Pretty rain particles.
+- **[Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)** - Pickup notifications.
+- **[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)** - Realistic footsteps audio.
+- **[Raised](https://modrinth.com/mod/raised)** - Raises hotbar for clean UI.
+- **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Better Sodium settings UI.
+- **[Respackopts](https://modrinth.com/mod/respackopts)** - Resource pack config UI.
+- **[Scribble](https://modrinth.com/mod/scribble)** - Better book editing.
+- **[Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced)** - Customizable HUD.
+- **[Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)** - Smooth scrolling UI.
+- **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - Extra Sodium settings.
+- **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Client tweaks.
+- **[TweakerMore](https://modrinth.com/mod/tweakermore)** - Extra tweaks for Tweakeroo.
+- **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - Cycle villager trades.
+- **[Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames)** - Hide item frames.
+- **[Villager Timetable](https://modrinth.com/mod/villagertimetable)** - Villager schedule viewer.
+- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - View locked villager trades.
+- **[World Edit](https://modrinth.com/plugin/worldedit)** - Building tools.
+- **[World Play Time](https://modrinth.com/mod/world-play-time)** - Shows world time played.
+- **[Xaero Zoomout](https://modrinth.com/mod/xaero-zoomout)** - Ultra zoom-out map.
+- **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** - Minimap.
+- **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - Full map.
+- **[Zoomify](https://modrinth.com/mod/zoomify)** - Zoom mod.
+- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - Detailed armor HUD.
 
 ## 📦 Dependencies
 
