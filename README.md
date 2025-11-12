@@ -6,7 +6,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 
 You can download the latest modpack from the [Releases page](https://github.com/1ofx9/mc-mods-list/releases).
 
-> **Note:** 🔶 (fork) Indicates a forked version of the mod or resource pack is available and linked.
+> **Note:** 🔶 Indicates a forked version or alternate version of the mod or resource pack is available and linked.
 
 ## ⚡ Optimization Mods
 
@@ -31,8 +31,10 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Sodium](https://modrinth.com/mod/sodium)** - Massive FPS boost.
 - **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** - Improves server performance with many players.
 - **[Voxy](https://modrinth.com/mod/voxy)** - A Level of Detail rendering mod.
-- **[Carpet Mod](https://modrinth.com/mod/carpet) 🔶 [(github)](https://github.com/gnembon/fabric-carpet)** - Take full control over your vanilla game.
-- **[Nvidium](https://modrinth.com/mod/nvidium) 🔶 [(fork)](https://github.com/drouarb/nvidium/releases)** - Better GPU performance for Nvidia.
+- **[ScalableLux](https://modrinth.com/mod/scalablelux)** - High-performance parallel lighting engine.
+- **[Carpet Mod](https://modrinth.com/mod/carpet)** 🔶 **[Fabric-Carpet (github)](https://github.com/gnembon/fabric-carpet)** - Take full control over your vanilla game.
+- **[ModernFix](https://modrinth.com/mod/modernfix)** 🔶 **[ModernFix-mVUS (fork)](https://modrinth.com/mod/modernfix-mvus)** - Performance and memory optimization mod.
+- **[Nvidium](https://modrinth.com/mod/nvidium)** 🔶 **[Nvidium (fork)](https://github.com/drouarb/nvidium/releases)** - Better GPU performance for Nvidia.
 
 ## 🔧 Utility Mods (QoL mods)
 
@@ -89,11 +91,10 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Visible Traders](https://modrinth.com/mod/visible-traders)** - View locked villager trades.
 - **[World Edit](https://modrinth.com/plugin/worldedit)** - Building tools.
 - **[World Play Time](https://modrinth.com/mod/world-play-time)** - Shows world time played.
-- **[Xaero Zoomout](https://modrinth.com/mod/xaero-zoomout)** - Ultra zoom-out map.
 - **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** - Minimap.
 - **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - Full map.
 - **[Zoomify](https://modrinth.com/mod/zoomify)** - Zoom mod.
-- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) 🔶 [(fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - Detailed armor HUD.
+- **[Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)** 🔶 **[Detail Armor Bar Reconstructed (fork)](https://modrinth.com/mod/detail-armor-bar-reconstructed)** - Detailed armor HUD.
 
 ## 📦 Dependencies
 
@@ -115,7 +116,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 - **[Bliss Shaders](https://modrinth.com/shader/bliss-shader)**
 - **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)**
-- **[Complementary Shaders](https://modrinth.com/user/EminGT)** + **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
+- **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
 - **[IterationT](https://www.minegraph.cn/shaderpacks/12)**
 - **[Nobel Shaders](https://modrinth.com/shader/noble)**
 - **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
