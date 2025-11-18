@@ -56,6 +56,8 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Dark loading screen.
 - **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - Restore deleted worlds from recycle bin.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Potion timers overlay.
+- **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** - Custom entity models.
+- **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** - Custom entity textures.
 - **[Fabrishot](https://modrinth.com/mod/fabrishot)** - Ultra-resolution screenshots.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Shader loader.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Inventory shortcuts.
@@ -104,16 +106,17 @@ You can download the latest modpack from the [Releases page](https://github.com/
 ## 🪐 Shaders
 
 - **[Bliss Shaders](https://modrinth.com/shader/bliss-shader)**
-- **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)**
 - **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
 - **[IterationT](https://www.minegraph.cn/shaderpacks/12)**
 - **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
 - **[Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)**
-- **[Solas Shader](https://modrinth.com/shader/solas-shader)**
 
 ## 🌍 Resource Packs
 
+- **[Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
+- **[New Glowing Ores](https://modrinth.com/resourcepack/new-glowing-ores)**
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
 - **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)**
+- **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
