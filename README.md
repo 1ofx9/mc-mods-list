@@ -113,10 +113,9 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 ## 🌍 Resource Packs
 
-- **[Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)**
+- **[Colourful containers Dark Mode GUI](https://modrinth.com/resourcepack/colourful-containers-dark-mode-gui)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[New Glowing Ores](https://modrinth.com/resourcepack/new-glowing-ores)**
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
-- **[Reimagined GUI(Dark)](https://modrinth.com/resourcepack/reimaginedguidark)**
 - **[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)**
 - **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
