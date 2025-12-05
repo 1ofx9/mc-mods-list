@@ -42,13 +42,13 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Axiom](https://modrinth.com/mod/axiom)** - All-in-one Minecraft world editor.
 - **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Beautiful clouds in touch with the vanilla style.
 - **[Better F1 Reborn](https://modrinth.com/mod/better-f1-reborn)** - Hide only HUD using F1.
+- **[BetterF3](https://modrinth.com/mod/betterf3)** - customisable F3 screen.
 - **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - Fancy/fast better grass (OptiFine-like).
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Enhanced mount HUD.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improved stat screen.
 - **[Calc Mod](https://modrinth.com/mod/calcmod)** - In-game calculator.
 - **[Chat Heads](https://modrinth.com/mod/chat-heads)** - Shows heads in chat.
 - **[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)** - World organizer.
-- **[Clean F3](https://modrinth.com/mod/clean-f3)** - Removes useless information from the debug screen.
 - **[Continuity](https://modrinth.com/mod/continuity)** - A Minecraft mod that allows for efficient connected textures.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Search bar for keybinds.
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - Ambient rain sounds.
@@ -65,6 +65,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Dynamic lights.
 - **[Lighty](https://modrinth.com/mod/lighty)** - Light overlay tool.
 - **[Litematica](https://modrinth.com/mod/litematica)** - Blueprint/schematic mod.
+- **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Player heads on the locator bar.
 - **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - More realistic bubbles.
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - Mini-F3 HUD & overlays.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** - Mod config menu.
