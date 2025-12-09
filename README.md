@@ -111,6 +111,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[IterationT](https://www.minegraph.cn/shaderpacks/12)**
 - **[Photon Shaders](https://modrinth.com/shader/photon-shader)**
 - **[Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)**
+- **[Sildur's Vibrant shaders Extreme-VL](https://sildurs-shaders.github.io)**
 
 ## 🌍 Resource Packs
 
