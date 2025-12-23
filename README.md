@@ -54,7 +54,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - Ambient rain sounds.
 - **[Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)** - Borderless fullscreen.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Dark loading screen.
-- **[Delete Worlds To Trash](https://modrinth.com/mod/delete-worlds-to-trash)** - Restore deleted worlds from recycle bin.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Potion timers overlay.
 - **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** - Custom entity models.
 - **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** - Custom entity textures.
@@ -63,7 +62,6 @@ You can download the latest modpack from the [Releases page](https://github.com/
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Inventory shortcuts.
 - **[Jade](https://modrinth.com/mod/jade)** - WAILA info display.
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Dynamic lights.
-- **[Lighty](https://modrinth.com/mod/lighty)** - Light overlay tool.
 - **[Litematica](https://modrinth.com/mod/litematica)** - Blueprint/schematic mod.
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Player heads on the locator bar.
 - **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - More realistic bubbles.
