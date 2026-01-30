@@ -11,6 +11,7 @@ You can download the latest modpack from the [Releases page](https://github.com/
 ## 🪐 Shaders
 
 - **[Bliss Shaders](https://github.com/X0nk/Bliss-Shader)**
+- **[BSL Shaders](https://modrinth.com/shader/bsl-shaders)**
 - **[Complementary Shaders](https://modrinth.com/user/EminGT)** with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
 - **[Eclipse Shader](https://github.com/Merlin1809/Eclipse-Shader)**
 - **[IterationT](https://www.minegraph.cn/shaderpacks/12)**
