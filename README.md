@@ -96,7 +96,9 @@ You can download the latest modpack from the [Releases page](https://github.com/
 
 - **[Colourful containers Dark Mode GUI](https://modrinth.com/resourcepack/colourful-containers-dark-mode-gui)**
 - **[Faithful 64x](https://modrinth.com/resourcepack/faithful-64x)**
+- **[Full Blue Netherite](https://modrinth.com/resourcepack/full-blue-netherite)**
 - **[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)**
 - **[Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)**
+- **[Shader Panorama For 1.21.11: Mounts of Mayhem](https://modrinth.com/resourcepack/shaderpanorama12111)**
 - **[Vanilla Tweaks](https://vanillatweaks.net)**
 - **[Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)**
