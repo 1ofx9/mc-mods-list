@@ -12,22 +12,22 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 
 | **Mods** | **Description** | **Source** |
 | :--- | :--- | :--- |
-| **BadOptimizations** | Miscellaneous optimizations targeting non-rendering lag. | [Modrinth](https://modrinth.com/mod/badoptimizations) |
-| **Better Block Entities** | Optimizes block entity rendering and performance. | [Modrinth](https://modrinth.com/mod/better-block-entities) |
-| **Dynamic FPS** | Reduces resource usage when the game is in the background. | [Modrinth](https://modrinth.com/mod/dynamic-fps) |
-| **Entity Culling** | Skips rendering entities that are not visible to the player. | [Modrinth](https://modrinth.com/mod/entityculling) |
-| **Fast Noise** | Vanilla Worldgen optimization for faster load times. | [Modrinth](https://modrinth.com/mod/zfastnoise) |
-| **FerriteCore** | Reduces memory usage by optimizing internal data structures. | [Modrinth](https://modrinth.com/mod/ferrite-core) |
-| **ImmediatelyFast** | Speeds up immediate-mode rendering (GUI, signs, etc.). | [Modrinth](https://modrinth.com/mod/immediatelyfast) |
-| **Lithium** | General-purpose optimization for game physics and systems. | [Modrinth](https://modrinth.com/mod/lithium) |
-| **More Culling** | Adds extra culling systems to hide unnecessary geometry. | [Modrinth](https://modrinth.com/mod/moreculling) |
-| **No Chat Reports** | Strips chat signing to maintain privacy and prevent reporting. | [Modrinth](https://modrinth.com/mod/no-chat-reports) |
-| **Resourcepack Checker** | Optimizes server resource pack loading logic. | [Modrinth](https://modrinth.com/mod/server-resource-pack-checker) |
-| **ScalableLux** | A high-performance, parallel lighting engine. | [Modrinth](https://modrinth.com/mod/scalablelux) |
-| **Servercore** | Optimization mod tailored for server-side performance. | [Modrinth](https://modrinth.com/mod/servercore) |
-| **Sodium** | Massively improves rendering performance and FPS. | [Modrinth](https://modrinth.com/mod/sodium) |
-| **ModernFix** 🔶 | A collection of performance and memory optimizations. | [Modrinth](https://modrinth.com/mod/modernfix) • [Fork](https://modrinth.com/mod/modernfix-mvus) |
-| **Nvidium** 🔶 | High-performance rendering engine for NVIDIA GPUs. | [Modrinth](https://modrinth.com/mod/nvidium) • [Fork](https://github.com/drouarb/nvidium/releases) |
+|  **BadOptimizations** | Miscellaneous optimizations targeting non-rendering lag. | [Modrinth](https://modrinth.com/mod/badoptimizations) |
+|  **Better Block Entities** | Optimizes block entity rendering and performance. | [Modrinth](https://modrinth.com/mod/better-block-entities) |
+|  **Dynamic FPS** | Reduces resource usage when the game is in the background. | [Modrinth](https://modrinth.com/mod/dynamic-fps) |
+|  **Entity Culling** | Skips rendering entities that are not visible to the player. | [Modrinth](https://modrinth.com/mod/entityculling) |
+|  **Fast Noise** | Vanilla Worldgen optimization for faster load times. | [Modrinth](https://modrinth.com/mod/zfastnoise) |
+|  **FerriteCore** | Reduces memory usage by optimizing internal data structures. | [Modrinth](https://modrinth.com/mod/ferrite-core) |
+|  **ImmediatelyFast** | Speeds up immediate-mode rendering (GUI, signs, etc.). | [Modrinth](https://modrinth.com/mod/immediatelyfast) |
+|  **Lithium** | General-purpose optimization for game physics and systems. | [Modrinth](https://modrinth.com/mod/lithium) |
+|  **More Culling** | Adds extra culling systems to hide unnecessary geometry. | [Modrinth](https://modrinth.com/mod/moreculling) |
+|  **No Chat Reports** | Strips chat signing to maintain privacy and prevent reporting. | [Modrinth](https://modrinth.com/mod/no-chat-reports) |
+|  **Resourcepack Checker** | Optimizes server resource pack loading logic. | [Modrinth](https://modrinth.com/mod/server-resource-pack-checker) |
+|  **ScalableLux** | A high-performance, parallel lighting engine. | [Modrinth](https://modrinth.com/mod/scalablelux) |
+|  **Servercore** | Optimization mod tailored for server-side performance. | [Modrinth](https://modrinth.com/mod/servercore) |
+|  **Sodium** | Massively improves rendering performance and FPS. | [Modrinth](https://modrinth.com/mod/sodium) |
+|  **ModernFix** 🔶 | A collection of performance and memory optimizations. | [Modrinth](https://modrinth.com/mod/modernfix) • [Fork](https://modrinth.com/mod/modernfix-mvus) |
+|  **Nvidium** 🔶 | High-performance rendering engine for NVIDIA GPUs. | [Modrinth](https://modrinth.com/mod/nvidium) • [Fork](https://github.com/drouarb/nvidium/releases) |
 
 ### Utility & QoL Mods
 
@@ -72,20 +72,20 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 
 ### Shaders
 
-| Shader | Source | Note |
+| **Shader** | **Source** | **Note** |
 | :--- | :--- | :--- |
-| **Bliss Shaders** | [GitHub](https://github.com/X0nk/Bliss-Shader) | High-end visual realism. |
-| **Complementary** | [Modrinth](https://modrinth.com/user/EminGT) | Used with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)** |
-| **Eclipse Shader** | [GitHub](https://github.com/Merlin1809/Eclipse-Shader) | Stylish and lightweight. |
-| **IterationT** | [Minegraph](https://www.minegraph.cn/shaderpacks/12) | Unique aesthetic. |
-| **Photon Shaders** | [GitHub](https://github.com/sixthsurge/photon) | Optimized modern shader. |
-| **Sildur's Vibrant shaders Extreme-VL** | [Site](https://sildurs-shaders.github.io) | Classic vibrant look. |
+|  **Bliss Shaders** | [GitHub](https://github.com/X0nk/Bliss-Shader) | High-end visual realism. |
+|  **Complementary** | [Modrinth](https://modrinth.com/user/EminGT) | Used with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)** |
+|  **Eclipse Shader** | [GitHub](https://github.com/Merlin1809/Eclipse-Shader) | Stylish and lightweight. |
+|  **IterationT** | [Minegraph](https://www.minegraph.cn/shaderpacks/12) | Unique aesthetic. |
+|  **Photon Shaders** | [GitHub](https://github.com/sixthsurge/photon) | Optimized modern shader. |
+|  **Sildur's Vibrant shaders Extreme-VL** | [Site](https://sildurs-shaders.github.io) | Classic vibrant look. |
 
 ### Resource Packs
 
-| Pack | Description | Source |
+| **Pack** | **Description** | **Source** |
 | :--- | :--- | :--- |
-| **Motschen's Better Leaves** | Bushy leaves and improved foliage. | [Modrinth](https://modrinth.com/resourcepack/better-leaves) |
-| **Recolourful Containers GUI + HUD (DARK)** | Sleek dark-mode GUI and HUD. | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark) |
-| **Redstone Tweaks** | Visual aids for redstone component states. | [Modrinth](https://modrinth.com/resourcepack/redstone-tweaks) |
-| **Vanilla Tweaks** | Modular pack for subtle game improvements. | [Site](https://vanillatweaks.net) |
+|  **Motschen's Better Leaves** | Bushy leaves and improved foliage. | [Modrinth](https://modrinth.com/resourcepack/better-leaves) |
+|  **Recolourful Containers GUI + HUD (DARK)** | Sleek dark-mode GUI and HUD. | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark) |
+|  **Redstone Tweaks** | Visual aids for redstone component states. | [Modrinth](https://modrinth.com/resourcepack/redstone-tweaks) |
+|  **Vanilla Tweaks** | Modular pack for subtle game improvements. | [Site](https://vanillatweaks.net) |
