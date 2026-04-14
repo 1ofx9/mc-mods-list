@@ -14,6 +14,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | :--- | :--- | :--- |
 | **BadOptimizations** | Miscellaneous optimizations targeting non-rendering lag. | [Modrinth](https://modrinth.com/mod/badoptimizations) |
 | **Better Block Entities** | Optimizes block entity rendering and performance. | [Modrinth](https://modrinth.com/mod/better-block-entities) |
+| **Debugify** | Fixes common Minecraft bugs. | [Modrinth](https://modrinth.com/mod/debugify) |
 | **Dynamic FPS** | Reduces resource usage when the game is in the background. | [Modrinth](https://modrinth.com/mod/dynamic-fps) |
 | **Entity Culling** | Skips rendering entities that are not visible to the player. | [Modrinth](https://modrinth.com/mod/entityculling) |
 | **Fast Noise** | Vanilla Worldgen optimization for faster load times. | [Modrinth](https://modrinth.com/mod/zfastnoise) |
@@ -22,7 +23,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | **Lithium** | General-purpose optimization for game physics and systems. | [Modrinth](https://modrinth.com/mod/lithium) |
 | **More Culling** | Adds extra culling systems to hide unnecessary geometry. | [Modrinth](https://modrinth.com/mod/moreculling) |
 | **No Chat Reports** | Strips chat signing to maintain privacy and prevent reporting. | [Modrinth](https://modrinth.com/mod/no-chat-reports) |
-| **Not Enough Crashes** | Skip restarts after crashes. | [Modrinth](https://modrinth.com/mod/notenoughcrashes) |
+| **Not Enough Crashes❗** | Skip restarts after crashes. | [Modrinth](https://modrinth.com/mod/notenoughcrashes) |
 | **Resourcepack Checker** | Optimizes server resource pack loading logic. | [Modrinth](https://modrinth.com/mod/server-resource-pack-checker) |
 | **ScalableLux** | A high-performance, parallel lighting engine. | [Modrinth](https://modrinth.com/mod/scalablelux) |
 | **Servercore** | Optimization mod tailored for server-side performance. | [Modrinth](https://modrinth.com/mod/servercore) |
@@ -34,10 +35,9 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 ### Utility & QoL Mods
 
 - **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)** - Replaces flat skin layers with detailed 3D models.
-- **[Animatica](https://modrinth.com/mod/animatica)** - Adds animated texture format.
 - **[AppleSkin](https://modrinth.com/mod/appleskin)** - Visualizes hunger and saturation on the HUD.
 - **[Axiom](https://modrinth.com/mod/axiom)** - Powerful, all-in-one world editor for builders.
-- **[Better Advancements](https://modrinth.com/mod/better-advancements)** - Better advancements UI.
+- **[Better Advancements❗](https://modrinth.com/mod/better-advancements)** - Better advancements UI.
 - **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Renders beautiful, vanilla-styled volumetric clouds.
 - **[Better F1 Reborn](https://modrinth.com/mod/better-f1-reborn)** - Hide the HUD using F1 without hiding other elements.
 - **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - OptiFine-like "Fancy" grass.
@@ -45,11 +45,11 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improved stats UI.
 - **[Calc Mod](https://modrinth.com/mod/calcmod)** - In-game calculator.
 - **[Chat Heads](https://modrinth.com/mod/chat-heads)** - Shows player heads next to their messages in chat.
+- **[Chat Tools](https://modrinth.com/mod/chat-tools)** - Adds various tools to improve the chat experience.
 - **[Continuity](https://modrinth.com/mod/continuity)** - Connected textures.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar and sorting to the keybinds menu.
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - High-quality rain sound effects.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Eyes-friendly boot screen.
-- **[Debugify](https://modrinth.com/mod/debugify)** - Fixes common Minecraft bugs.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Clear potion effect overlays.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Modern shader loader with high compatibility.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Faster inventory shortcuts.
@@ -59,7 +59,6 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Player icons on the mini-map/bar.
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - Mini-F3 style HUD and information overlays.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** - Adds a clean interface to manage and configure mods.
-- **[More Chat History](https://modrinth.com/mod/morechathistory)** - Extends the chat message buffer.
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Improved inventory item handling.
 - **[OptiGUI](https://modrinth.com/mod/optigui)** - Custom textures for container menus.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Atmospheric rain particle effects.
