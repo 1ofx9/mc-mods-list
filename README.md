@@ -53,16 +53,16 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Clear potion effect overlays.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Modern shader loader with high compatibility.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Faster inventory shortcuts.
-- **[Jade❗](https://modrinth.com/mod/jade)** - HUD overlay showing information about the block being looked at.
+- **[Jade](https://modrinth.com/mod/jade)** - HUD overlay showing information about the block being looked at.
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Real-time lighting from held items.
 - **[Litematica](https://modrinth.com/mod/litematica)** - Advanced blueprint and schematic display tool.
-- **[Locator Heads❗](https://modrinth.com/mod/locator-heads)** - Player icons on the mini-map/bar.
+- **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Player icons on the mini-map/bar.
 - **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - Makes bubbles pop.
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - Mini-F3 style HUD and information overlays.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** - Adds a clean interface to manage and configure mods.
 - **[Mouse Tweaks❗](https://modrinth.com/mod/mouse-tweaks)** - Improved inventory item handling.
 - **[OptiGUI❗](https://modrinth.com/mod/optigui)** - Custom textures for container menus.
-- **[Particle Rain❗](https://modrinth.com/mod/particle-rain)** - Atmospheric rain particle effects.
+- **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Atmospheric rain particle effects.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Better UI for Sodium settings.
 - **[Respackopts](https://modrinth.com/mod/respackopts)** - Configuration UI for resource packs.
 - **[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)** - Shows the contents of shulker boxes in the inventory.
