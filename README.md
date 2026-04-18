@@ -40,7 +40,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Better Advancements❗](https://modrinth.com/mod/better-advancements)** - Better advancements UI.
 - **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Renders beautiful, vanilla-styled volumetric clouds.
 - **[Better F1 Reborn❗](https://modrinth.com/mod/better-f1-reborn)** - Hide the HUD using F1 without hiding other elements.
-- **[Better Grassify❗](https://modrinth.com/mod/bettergrassify)** - OptiFine-like "Fancy" grass.
+- **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - OptiFine-like "Fancy" grass.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Enhances the HUD when riding entities.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improved stats UI.
 - **[Calc Mod❗](https://modrinth.com/mod/calcmod)** - In-game calculator.
@@ -60,7 +60,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)** - Makes bubbles pop.
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - Mini-F3 style HUD and information overlays.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** - Adds a clean interface to manage and configure mods.
-- **[Mouse Tweaks❗](https://modrinth.com/mod/mouse-tweaks)** - Improved inventory item handling.
+- **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Improved inventory item handling.
 - **[OptiGUI❗](https://modrinth.com/mod/optigui)** - Custom textures for container menus.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Atmospheric rain particle effects.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Better UI for Sodium settings.
@@ -75,7 +75,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[WorldEdit](https://modrinth.com/mod/worldedit)** - In-game world editing tool.
 - **[World Play Time❗](https://modrinth.com/mod/world-play-time)** - Tracks time spent in a world.
 - **[Zoomify](https://modrinth.com/mod/zoomify)** - Highly customizable zoom feature with smooth transitions.
-- **[Carpet Mod❗](https://modrinth.com/mod/carpet)** 🔶 - Complete control over vanilla game mechanics and testing. ([GitHub](https://github.com/gnembon/fabric-carpet))
+- **[Carpet](https://modrinth.com/mod/carpet)** 🔶 - Complete control over vanilla game mechanics and testing. ([GitHub](https://github.com/gnembon/fabric-carpet))
 
 ### Shaders
 
