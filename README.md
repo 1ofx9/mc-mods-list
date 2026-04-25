@@ -18,10 +18,10 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | **Dynamic FPS** | Reduces resource usage when the game is in the background. | [Modrinth](https://modrinth.com/mod/dynamic-fps) |
 | **Entity Culling** | Skips rendering entities that are not visible to the player. | [Modrinth](https://modrinth.com/mod/entityculling) |
 | **Fast Noise** | Vanilla Worldgen optimization for faster load times. | [Modrinth](https://modrinth.com/mod/zfastnoise) |
-| **FerriteCore❗** | Reduces memory usage by optimizing internal data structures. | [Modrinth](https://modrinth.com/mod/ferrite-core) |
+| **FerriteCore** | Reduces memory usage by optimizing internal data structures. | [Modrinth](https://modrinth.com/mod/ferrite-core) |
 | **ImmediatelyFast** | Speeds up immediate-mode rendering. | [Modrinth](https://modrinth.com/mod/immediatelyfast) |
 | **Lithium** | General-purpose optimization for game physics and systems. | [Modrinth](https://modrinth.com/mod/lithium) |
-| **More Culling❗** | Adds extra culling systems to hide unnecessary geometry. | [Modrinth](https://modrinth.com/mod/moreculling) |
+| **More Culling** | Adds extra culling systems to hide unnecessary geometry. | [Modrinth](https://modrinth.com/mod/moreculling) |
 | **No Chat Reports** | Strips chat signing to maintain privacy and prevent reporting. | [Modrinth](https://modrinth.com/mod/no-chat-reports) |
 | **Not Enough Crashes❗** | Skip restarts after crashes. | [Modrinth](https://modrinth.com/mod/notenoughcrashes) |
 | **ScalableLux** | A high-performance, parallel lighting engine. | [Modrinth](https://modrinth.com/mod/scalablelux) |
@@ -48,7 +48,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Chat Tools](https://modrinth.com/mod/chat-tools)** - Adds various tools to improve the chat experience.
 - **[Continuity](https://modrinth.com/mod/continuity)** - Connected textures.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar and sorting to the keybinds menu.
-- **[Cool Rain❗](https://modrinth.com/mod/coolrain)** - High-quality rain sound effects.
+- **[Cool Rain](https://modrinth.com/mod/coolrain)** - High-quality rain sound effects.
 - **[Dark Loading Screen❗](https://modrinth.com/mod/dark-loading-screen)** - Eyes-friendly boot screen.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Clear potion effect overlays.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Modern shader loader with high compatibility.
@@ -71,29 +71,32 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Trade Cycling](https://modrinth.com/mod/trade-cycling)** - Cycle villager trades.
 - **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Massive collection of client-side tweaks.
 - **[Tweakermore](https://modrinth.com/mod/tweakermore)** - More tweaks for Tweakeroo.
-- **[Visible Traders❗](https://modrinth.com/mod/visible-traders)** - Preview locked villager trades.
+- **[Visible Traders](https://modrinth.com/mod/visible-traders)** - Preview locked villager trades.
 - **[WorldEdit](https://modrinth.com/mod/worldedit)** - In-game world editing tool.
 - **[World Play Time❗](https://modrinth.com/mod/world-play-time)** - Tracks time spent in a world.
+- **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** - Minimap.
+- **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - World map.
 - **[Zoomify](https://modrinth.com/mod/zoomify)** - Highly customizable zoom feature with smooth transitions.
 - **[Carpet](https://modrinth.com/mod/carpet)** 🔶 - Complete control over vanilla game mechanics and testing. ([GitHub](https://github.com/gnembon/fabric-carpet))
 
 ### Shaders
 
-| **Shader** | **Source** | **Note** |
-| :--- | :--- | :--- |
-| **Bliss Shaders** | [GitHub](https://github.com/X0nk/Bliss-Shader) | High-end visual realism. |
+| **Shader** | **Source** |
+| :--- | :--- |
+| **Bliss Shaders** | [GitHub](https://github.com/X0nk/Bliss-Shader) |
 | **Complementary** | [Modrinth](https://modrinth.com/user/EminGT) | Used with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)** |
-| **Eclipse Shader** | [GitHub](https://github.com/Merlin1809/Eclipse-Shader) | Stylish and lightweight. |
-| **IterationT** | [Minegraph](https://www.minegraph.cn/shaderpacks/12) | Unique aesthetic. |
-| **Photon Shaders** | [GitHub](https://github.com/sixthsurge/photon) | Optimized modern shader. |
-| **Sildur's Vibrant shaders Extreme-VL** | [Site](https://sildurs-shaders.github.io) | Classic vibrant look. |
+| **Eclipse Shader** | [GitHub](https://github.com/Merlin1809/Eclipse-Shader) |
+| **IterationT** | [Minegraph](https://www.minegraph.cn/shaderpacks/12) |
+| **Photon Shaders** | [GitHub](https://github.com/sixthsurge/photon) |
+| **Sildur's Vibrant shaders Extreme-VL** | [Site](https://sildurs-shaders.github.io) |
 
 ### Resource Packs
 
-| **Pack** | **Description** | **Source** |
-| :--- | :--- | :--- |
-| **Motschen's Better Leaves❗** | Bushy leaves and improved foliage. | [Modrinth](https://modrinth.com/resourcepack/better-leaves) |
-| **New Glowing Ores** | Makes ores glow. | [Modrinth](https://modrinth.com/resourcepack/new-glowing-ores) |
-| **Recolourful Containers GUI + HUD (DARK)** | Sleek dark-mode GUI and HUD. | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark) |
-| **Redstone Tweaks❗** | Visual aids for redstone component states. | [Modrinth](https://modrinth.com/resourcepack/redstone-tweaks) |
-| **Vanilla Tweaks** | Modular pack for subtle game improvements. | [Site](https://vanillatweaks.net) |
+| **Pack** | **Source** |
+| :--- | :--- |
+| **Motschen's Better Leaves** | [Modrinth](https://modrinth.com/resourcepack/better-leaves) |
+| **New Glowing Ores** | [Modrinth](https://modrinth.com/resourcepack/new-glowing-ores) |
+| **Recolourful Containers GUI + HUD (DARK)** | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark) |
+| **Redstone Tweaks** | [Modrinth](https://modrinth.com/resourcepack/redstone-tweaks) |
+| **Shulker's PBR (SPBR)** | [Minegraph](https://www.minegraph.cn/resourcepacks/1) |
+| **Vanilla Tweaks** | [Site](https://vanillatweaks.net) |
