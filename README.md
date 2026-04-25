@@ -14,6 +14,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | :--- | :--- | :--- |
 | **BadOptimizations** | Miscellaneous optimizations targeting non-rendering lag. | [Modrinth](https://modrinth.com/mod/badoptimizations) |
 | **Better Block Entities** | Optimizes block entity rendering and performance. | [Modrinth](https://modrinth.com/mod/better-block-entities) |
+| **Borderless Mining (Updated)** | Removes the border of the game window when in borderless mode. | [Modrinth](https://modrinth.com/mod/borderless-mining-updated) |
 | **Debugify** | Fixes common Minecraft bugs. | [Modrinth](https://modrinth.com/mod/debugify) |
 | **Dynamic FPS** | Reduces resource usage when the game is in the background. | [Modrinth](https://modrinth.com/mod/dynamic-fps) |
 | **Entity Culling** | Skips rendering entities that are not visible to the player. | [Modrinth](https://modrinth.com/mod/entityculling) |
@@ -51,6 +52,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - High-quality rain sound effects.
 - **[Dark Loading Screen❗](https://modrinth.com/mod/dark-loading-screen)** - Eyes-friendly boot screen.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Clear potion effect overlays.
+- **[FabriShot](https://modrinth.com/mod/fabrishot)** - Screenshotting made simple and fast.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Modern shader loader with high compatibility.
 - **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Faster inventory shortcuts.
 - **[Jade](https://modrinth.com/mod/jade)** - HUD overlay showing information about the block being looked at.
