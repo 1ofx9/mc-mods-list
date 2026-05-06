@@ -90,8 +90,10 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | **Bliss Shaders** | [GitHub](https://github.com/X0nk/Bliss-Shader) |
 | **Complementary** | [Modrinth](https://modrinth.com/user/EminGT) | Used with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)** |
 | **Eclipse Shader** | [GitHub](https://github.com/Merlin1809/Eclipse-Shader) |
+| **I Like Vanilla** | [Modrinth](https://modrinth.com/shaderpack/i-like-vanilla) |
 | **IterationT** | [Minegraph](https://www.minegraph.cn/shaderpacks/12) |
 | **Photon Shaders** | [GitHub](https://github.com/sixthsurge/photon) |
+| **Reverie Shader** | [Modrinth](https://modrinth.com/shaderpack/reverie_shader) |
 | **Sildur's Vibrant shaders Extreme-VL** | [Site](https://sildurs-shaders.github.io) |
 
 ### Resource Packs
