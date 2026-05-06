@@ -38,7 +38,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)** - Replaces flat skin layers with detailed 3D models.
 - **[AppleSkin](https://modrinth.com/mod/appleskin)** - Visualizes hunger and saturation on the HUD.
 - **[Axiom](https://modrinth.com/mod/axiom)** - Powerful, all-in-one world editor for builders.
-- **[Better Advancements❗](https://modrinth.com/mod/better-advancements)** - Better advancements UI.
+- **[Better Advancements](https://modrinth.com/mod/better-advancements)** - Better advancements UI.
 - **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Renders beautiful, vanilla-styled volumetric clouds.
 - **[Better F1 Reborn❗](https://modrinth.com/mod/better-f1-reborn)** - Hide the HUD using F1 without hiding other elements.
 - **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - OptiFine-like "Fancy" grass.
@@ -50,7 +50,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Continuity](https://modrinth.com/mod/continuity)** - Connected textures.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar and sorting to the keybinds menu.
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - High-quality rain sound effects.
-- **[Dark Loading Screen❗](https://modrinth.com/mod/dark-loading-screen)** - Eyes-friendly boot screen.
+- **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Eyes-friendly boot screen.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Clear potion effect overlays.
 - **[FabriShot](https://modrinth.com/mod/fabrishot)** - Screenshotting made simple and fast.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Modern shader loader with high compatibility.
@@ -63,8 +63,10 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - Mini-F3 style HUD and information overlays.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** - Adds a clean interface to manage and configure mods.
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Improved inventory item handling.
-- **[OptiGUI❗](https://modrinth.com/mod/optigui)** - Custom textures for container menus.
+- **[No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings)** - Disable warnings for outdated resource/data packs.
+- **[OptiGUI](https://modrinth.com/mod/optigui)** - Custom textures for container menus.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Atmospheric rain particle effects.
+- **[Quality of Queso](https://modrinth.com/mod/quality-of-queso)** - Inventory management.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Better UI for Sodium settings.
 - **[Respackopts](https://modrinth.com/mod/respackopts)** - Configuration UI for resource packs.
 - **[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)** - Shows the contents of shulker boxes in the inventory.
