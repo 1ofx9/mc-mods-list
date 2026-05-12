@@ -86,7 +86,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | **Shader** | **Source** |
 | :--- | :--- |
 | **Bliss Shaders** | [GitHub](https://github.com/X0nk/Bliss-Shader) |
-| **Complementary** | [Modrinth](https://modrinth.com/user/EminGT) | Used with **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)** |
+| **Complementary** | [Modrinth](https://modrinth.com/user/EminGT) modified with [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) |
 | **Eclipse Shader** | [GitHub](https://github.com/Merlin1809/Eclipse-Shader) |
 | **I Like Vanilla** | [Modrinth](https://modrinth.com/shaderpack/i-like-vanilla) |
 | **IterationT** | [Minegraph](https://www.minegraph.cn/shaderpacks/12) |
