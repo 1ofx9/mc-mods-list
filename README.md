@@ -78,6 +78,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - World map.
 - **[Voxy](https://modrinth.com/mod/voxy)** - A Level of Detail rendering mod.
 - **[Zoomify](https://modrinth.com/mod/zoomify)** - Highly customizable zoom feature with smooth transitions.
+- **[Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated)** 🔶 - A fork of Animatica implementing the OptiFine/MCPatcher animated texture format. 
 - **[Carpet](https://modrinth.com/mod/carpet)** 🔶 - Complete control over vanilla game mechanics and testing. ([GitHub](https://github.com/gnembon/fabric-carpet))
 
 ### Shaders
