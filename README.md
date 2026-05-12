@@ -24,12 +24,10 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | **Lithium** | General-purpose optimization for game physics and systems. | [Modrinth](https://modrinth.com/mod/lithium) |
 | **More Culling** | Adds extra culling systems to hide unnecessary geometry. | [Modrinth](https://modrinth.com/mod/moreculling) |
 | **No Chat Reports** | Strips chat signing to maintain privacy and prevent reporting. | [Modrinth](https://modrinth.com/mod/no-chat-reports) |
-| **Not Enough Crashes❗** | Skip restarts after crashes. | [Modrinth](https://modrinth.com/mod/notenoughcrashes) |
 | **ScalableLux** | A high-performance, parallel lighting engine. | [Modrinth](https://modrinth.com/mod/scalablelux) |
 | **Servercore** | Optimization mod tailored for server-side performance. | [Modrinth](https://modrinth.com/mod/servercore) |
 | **Server Resourcepack Checker** | Optimizes server resource pack loading logic. | [Modrinth](https://modrinth.com/mod/server-resource-pack-checker) |
 | **Sodium** | Massively improves rendering performance and FPS. | [Modrinth](https://modrinth.com/mod/sodium) |
-| **Voxy** | A Level of Detail rendering mod. | [Modrinth](https://modrinth.com/mod/voxy) |
 | **ModernFix** 🔶 | A collection of performance and memory optimizations. | [Modrinth](https://modrinth.com/mod/modernfix) • [Fork](https://modrinth.com/mod/modernfix-mvus) |
 | **Nvidium** 🔶 | High-performance rendering engine for NVIDIA GPUs. | [Modrinth](https://modrinth.com/mod/nvidium) • [Fork](https://github.com/drouarb/nvidium/releases) |
 
@@ -40,7 +38,6 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Axiom](https://modrinth.com/mod/axiom)** - Powerful, all-in-one world editor for builders.
 - **[Better Advancements](https://modrinth.com/mod/better-advancements)** - Better advancements UI.
 - **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Renders beautiful, vanilla-styled volumetric clouds.
-- **[Better F1 Reborn❗](https://modrinth.com/mod/better-f1-reborn)** - Hide the HUD using F1 without hiding other elements.
 - **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - OptiFine-like "Fancy" grass.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Enhances the HUD when riding entities.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improved stats UI.
@@ -80,6 +77,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[World Play Time❗](https://modrinth.com/mod/world-play-time)** - Tracks time spent in a world.
 - **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** - Minimap.
 - **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - World map.
+- **[Voxy](https://modrinth.com/mod/voxy)** - A Level of Detail rendering mod.
 - **[Zoomify](https://modrinth.com/mod/zoomify)** - Highly customizable zoom feature with smooth transitions.
 - **[Carpet](https://modrinth.com/mod/carpet)** 🔶 - Complete control over vanilla game mechanics and testing. ([GitHub](https://github.com/gnembon/fabric-carpet))
 
