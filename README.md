@@ -51,7 +51,6 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Clear potion effect overlays.
 - **[FabriShot](https://modrinth.com/mod/fabrishot)** - Screenshotting made simple and fast.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Modern shader loader with high compatibility.
-- **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Faster inventory shortcuts.
 - **[Jade](https://modrinth.com/mod/jade)** - HUD overlay showing information about the block being looked at.
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Real-time lighting from held items.
 - **[Litematica](https://modrinth.com/mod/litematica)** - Advanced blueprint and schematic display tool.
