@@ -101,5 +101,4 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | **New Glowing Ores** | [Modrinth](https://modrinth.com/resourcepack/new-glowing-ores) |
 | **Recolourful Containers GUI + HUD (DARK)** | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark) |
 | **Redstone Tweaks** | [Modrinth](https://modrinth.com/resourcepack/redstone-tweaks) |
-| **Shulker's PBR (SPBR)** | [Minegraph](https://www.minegraph.cn/resourcepacks/1) |
 | **Vanilla Tweaks** | [Site](https://vanillatweaks.net) |
