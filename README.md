@@ -41,7 +41,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - OptiFine-like "Fancy" grass.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Enhances the HUD when riding entities.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improved stats UI.
-- **[Calc Mod❗](https://modrinth.com/mod/calcmod)** - In-game calculator.
+- **[Calc Mod](https://modrinth.com/mod/calcmod)** - Minecraft calculator.
 - **[Chat Heads](https://modrinth.com/mod/chat-heads)** - Shows player heads next to their messages in chat.
 - **[Chat Tools](https://modrinth.com/mod/chat-tools)** - Adds various tools to improve the chat experience.
 - **[Continuity](https://modrinth.com/mod/continuity)** - Connected textures.
@@ -73,7 +73,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Tweakermore](https://modrinth.com/mod/tweakermore)** - More tweaks for Tweakeroo.
 - **[Visible Traders](https://modrinth.com/mod/visible-traders)** - Preview locked villager trades.
 - **[WorldEdit](https://modrinth.com/mod/worldedit)** - In-game world editing tool.
-- **[World Play Time❗](https://modrinth.com/mod/world-play-time)** - Tracks time spent in a world.
+- **[World Play Time](https://modrinth.com/mod/world-play-time)** - Tracks time spent in a world.
 - **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** - Minimap.
 - **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - World map.
 - **[Voxy](https://modrinth.com/mod/voxy)** - A Level of Detail rendering mod.
