@@ -98,6 +98,7 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 
 | **Pack** | **Source** |
 | :--- | :--- |
+| **Fresh Food** | [Modrinth](https://modrinth.com/resourcepack/fresh-food) |
 | **Motschen's Better Leaves** | [Modrinth](https://modrinth.com/resourcepack/better-leaves) |
 | **New Glowing Ores** | [Modrinth](https://modrinth.com/resourcepack/new-glowing-ores) |
 | **Recolourful Containers GUI + HUD (DARK)** | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark) |
