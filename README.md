@@ -35,23 +35,20 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 
 - **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)** - Replaces flat skin layers with detailed 3D models.
 - **[AppleSkin](https://modrinth.com/mod/appleskin)** - Visualizes hunger and saturation on the HUD.
-- **[Axiom](https://modrinth.com/mod/axiom)** - Powerful, all-in-one world editor for builders.
 - **[Better Advancements](https://modrinth.com/mod/better-advancements)** - Better advancements UI.
-- **[Better Clouds](https://modrinth.com/mod/better-clouds)** - Renders beautiful, vanilla-styled volumetric clouds.
 - **[Better Grassify](https://modrinth.com/mod/bettergrassify)** - OptiFine-like "Fancy" grass.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Enhances the HUD when riding entities.
 - **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** - Improved stats UI.
 - **[Calc Mod](https://modrinth.com/mod/calcmod)** - Minecraft calculator.
 - **[Chat Heads](https://modrinth.com/mod/chat-heads)** - Shows player heads next to their messages in chat.
-- **[Chat Tools](https://modrinth.com/mod/chat-tools)** - Adds various tools to improve the chat experience.
 - **[Continuity](https://modrinth.com/mod/continuity)** - Connected textures.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar and sorting to the keybinds menu.
 - **[Cool Rain](https://modrinth.com/mod/coolrain)** - High-quality rain sound effects.
 - **[Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)** - Eyes-friendly boot screen.
 - **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** - Clear potion effect overlays.
-- **[FabriShot](https://modrinth.com/mod/fabrishot)** - Screenshotting made simple and fast.
+- **[FabriShot](https://modrinth.com/mod/fabrishot)** - 4k screenshots.
 - **[Iris Shader](https://modrinth.com/mod/iris)** - Modern shader loader with high compatibility.
-- **[Jade](https://modrinth.com/mod/jade)** - HUD overlay showing information about the block being looked at.
+- **[Item Scroller](https://modrinth.com/mod/item-scroller)** - Inventory management.
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** - Real-time lighting from held items.
 - **[Litematica](https://modrinth.com/mod/litematica)** - Advanced blueprint and schematic display tool.
 - **[Locator Heads](https://modrinth.com/mod/locator-heads)** - Player icons on the mini-map/bar.
@@ -59,10 +56,8 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Mini HUD](https://modrinth.com/mod/minihud)** - Mini-F3 style HUD and information overlays.
 - **[Mod Menu](https://modrinth.com/mod/modmenu)** - Adds a clean interface to manage and configure mods.
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Improved inventory item handling.
-- **[No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings)** - Disable warnings for outdated resource/data packs.
 - **[OptiGUI](https://modrinth.com/mod/optigui)** - Custom textures for container menus.
 - **[Particle Rain](https://modrinth.com/mod/particle-rain)** - Atmospheric rain particle effects.
-- **[Quality of Queso](https://modrinth.com/mod/quality-of-queso)** - Inventory management.
 - **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)** - Better UI for Sodium settings.
 - **[Respackopts](https://modrinth.com/mod/respackopts)** - Configuration UI for resource packs.
 - **[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)** - Shows the contents of shulker boxes in the inventory.
@@ -72,7 +67,6 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 - **[Tweakeroo](https://modrinth.com/mod/tweakeroo)** - Massive collection of client-side tweaks.
 - **[Tweakermore](https://modrinth.com/mod/tweakermore)** - More tweaks for Tweakeroo.
 - **[Visible Traders](https://modrinth.com/mod/visible-traders)** - Preview locked villager trades.
-- **[WorldEdit](https://modrinth.com/mod/worldedit)** - In-game world editing tool.
 - **[World Play Time](https://modrinth.com/mod/world-play-time)** - Tracks time spent in a world.
 - **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** - Minimap.
 - **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - World map.
@@ -88,19 +82,15 @@ A curated list of mods and resource packs for enhancing performance, visuals, an
 | **Bliss Shaders** |[Modrinth](https://modrinth.com/shader/bliss-shader) • [GitHub](https://github.com/X0nk/Bliss-Shader) |
 | **Complementary** | [Modrinth](https://modrinth.com/user/EminGT) modified with [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) |
 | **Eclipse Shader** | [GitHub](https://github.com/Merlin1809/Eclipse-Shader) |
-| **I Like Vanilla** | [Modrinth](https://modrinth.com/shaderpack/i-like-vanilla) |
 | **IterationT** | [Minegraph](https://www.minegraph.cn/shaderpacks/12) |
 | **Photon Shaders** | [Modrinth](https://modrinth.com/shader/photon-shader) • [GitHub](https://github.com/sixthsurge/photon) |
-| **Reverie Shader** | [Modrinth](https://modrinth.com/shaderpack/reverie_shader) |
 | **Sildur's Vibrant shaders Extreme-VL** | [Site](https://sildurs-shaders.github.io) |
 
 ### Resource Packs
 
 | **Pack** | **Source** |
 | :--- | :--- |
-| **Fresh Food** | [Modrinth](https://modrinth.com/resourcepack/fresh-food) |
 | **Motschen's Better Leaves** | [Modrinth](https://modrinth.com/resourcepack/better-leaves) |
-| **New Glowing Ores** | [Modrinth](https://modrinth.com/resourcepack/new-glowing-ores) |
 | **Recolourful Containers GUI + HUD (DARK)** | [Modrinth](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark) |
 | **Redstone Tweaks** | [Modrinth](https://modrinth.com/resourcepack/redstone-tweaks) |
 | **Vanilla Tweaks** | [Site](https://vanillatweaks.net) |
