@@ -2,9 +2,7 @@
 
 A curated list of mods and resource packs for enhancing performance, visuals, and gameplay quality in Minecraft **26.1.2**.
 
-### Download the Modpack
-
-[![Download Modpack](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/1ofx9/mc-mods-list/releases)
+[![badge](https://shieldcn.dev/badge/Download-Latest%20Release.svg?logo=ri%3AFiDownload)](https://github.com/1ofx9/mc-mods-list/releases)
 
 > **Note:** 🔶 Indicates a forked version or alternate version of the mod or resource pack is available and linked.
 
